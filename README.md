@@ -7,7 +7,6 @@
 <br>
 
 ⚡ Currently I'm a **Software Engineering Intern at Jetson**, and a **Data Analyst Intern at STEM•E Youth Career Development Program.** 
-
 💼 In the past, I've interned as a **Data Science & Machine Learning Intern** at Drippy.
 
 <br>
