@@ -2,7 +2,7 @@
 
 💬 I'm Vignesh, a high school student interested in pursuing computer science and statistics in college, with the goal of becoming a software engineer or machine learning engineer.
 
-❗ I created this GitHub account to improve my project documentation skills and to incorporate open-source projects into my applications.
+❗ I created this GitHub account to improve my  documentation skills and to incorporate open-source projects into my applications.
 
 <br>
 
