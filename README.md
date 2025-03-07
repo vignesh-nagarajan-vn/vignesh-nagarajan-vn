@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hi there! 👋
 
-<!--
-**vignesh-nagarajan-vn/vignesh-nagarajan-vn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💬 I'm Vignesh, a high school student interested in pursuing computer science and statistics in college, with the goal of becoming a software engineer or machine learning engineer. 
 
-Here are some ideas to get you started:
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⚡ Currently I'm a **Software Engineering Intern at Jetson**, and a **Data Analyst Intern at STEM•E Youth Career Development Program.** 
+
+💼 In the past, I've interned as a **Data Science & Machine Learning Intern** at Drippy.
+
+<br>
+
+I've received several recognitions for my technical work, including:
+ - 🎯 **National Cyber Scholar** ($3,400 award; <3% selection rate)
+ - 👨‍💻 **CyberStart America National Hackathon Finalist** (Top 100/35,000)
+ - 💸 **Jetson Entrepreneur-in-Residence Scholarship** ($3,000 VC-backed award)
