@@ -17,6 +17,7 @@
  - 20+ articles for Sciencefair.io & Qurios Institute, as well as 250+ Q/A & FAQ respones, resulting in 15K+ website leads
  - A long-form article in Harvard's *Crimson Magazine* written for the International Research Olympiad (Backed by Google, Desmos)
  - A couple articles in *Venture - Business Magazine* (600K+ Monthly Views)
+ - Monthly blog posts in fintech applications for Jetson
 
 ## Awards & Certifications
 
