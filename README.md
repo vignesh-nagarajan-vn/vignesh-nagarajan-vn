@@ -9,10 +9,10 @@
 ## Work Experience
 
 💼 I have extensive field experience through several internships:
- - **Software Engineering Intern at Jetson** (VC-backed startup) | 2025 Summer
- - **Data Analyst Intern at STEM•E Youth Career Development Program** (large nonprofit) | 2023-2025 Year-round
- - **App Development Intern** at Jetson (VC-backed startup) | 2023 Summer
- - **Data Science & ML Intern** at Drippy (local AI/ML startup) | 2022 Fall
+ - **Software Engineering Intern** at *Jetson* (VC-backed startup) | 2025 Summer
+ - **Data Analyst Intern** at *STEM•E Youth Career Development Program* (large nonprofit) | 2023-2025 Year-round
+ - **App Development Intern** at *Jetson* (VC-backed startup) | 2023 Summer
+ - **Data Science & ML Intern** at *Drippy* (local AI/ML startup) | 2022 Fall
 
 <br>
 
