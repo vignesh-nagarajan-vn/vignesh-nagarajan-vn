@@ -4,11 +4,11 @@
 
 <br>
 
-⚡ I created this GitHub account to improve my  documentation skills and to incorporate open-source projects into my applications.
+🎯 Due to my perfect 1520 score on the PSAT Exam and my rigorous academic courseload consisting of 16 APs, 6 Honors at BASIS Phoenix and 8 DEs at Paradise Valley Community College, I aim to finish an accelerated BS (CS/Stats) + MCS program in 4 years through a full-tuition/full-ride scholarship.
 
 <br>
 
-🎯 Due to my perfect 1520 score on the PSAT Exam and my rigorous academic courseload consisting of 16 APs, 6 Honors at BASIS Phoenix and 8 DEs at Paradise Valley Community College, I aim to finish an accelerated BS (CS/Stats) + MCS program in 4 years through a full-tuition/full-ride scholarship.
+⚡ I created this GitHub account to improve my  documentation skills and to incorporate open-source projects into my applications.
 
 ## Work Experience
 
