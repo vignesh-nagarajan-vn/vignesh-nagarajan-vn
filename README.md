@@ -16,7 +16,7 @@
  - Over a dozen articles for *Artificial Intelligence in Plain English* (3.5M+ Monthly Views, 10K+ Followers)
  - 25+ articles for Sciencefair.io & Qurios Institute, as well as 250+ Q/A & FAQ respones, resulting in 15K+ website leads
  - A long-form article in Harvard's *Crimson Magazine* written for the International Research Olympiad (Backed by Google, Desmos)
- - A video script & PDF guide for Rishab Jain's [Every SAT Grammar Rule in 15 Minutes]([https://www.youtube.com/watch?v=NLz8CRdMvuI)] YouTube Video (448K+ Views in 6 Months)
+ - A video script & PDF guide for Rishab Jain's [Every SAT Grammar Rule in 15 Minutes](https://www.youtube.com/watch?v=NLz8CRdMvuI) YouTube Video (448K+ Views in 6 Months)
  - A couple articles in *Venture - Business Magazine* (600K+ Monthly Views)
  - Monthly blog posts in fintech applications for Jetson
 
