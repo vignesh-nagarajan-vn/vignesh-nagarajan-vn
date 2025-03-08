@@ -12,7 +12,7 @@
 
 <br>
 
-📝 I'm also a Freelance Content Writer in the AI/ML and Business space. I've published:
+📝 I'm also a **Freelance Content Writer** in the AI/ML, Business, and Research space. I've published:
  - Over a dozen articles for *Artificial Intelligence in Plain English* (3.5M+ Monthly Views, 10K+ Followers)
  - 20+ articles for Sciencefair.io & Qurios Institute, as well as 250+ Q/A & FAQ respones, resulting in 15K+ website leads
  - A long-form article in Harvard's *Crimson Magazine* written for the International Research Olympiad (Backed by Google, Desmos)
