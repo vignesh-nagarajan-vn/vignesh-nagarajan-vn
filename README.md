@@ -20,7 +20,7 @@
  - A couple articles in *Venture - Business Magazine* (600K+ Monthly Views)
  - Monthly blog posts in fintech applications for Jetson
 
-⬅️ Check out my Medium portolio to view a sample of my writing. A majority of what I write is secured under a Non-Disclosure Agreement and isn't on there.
+⬅️ Check out my Medium portolio to view a sample of my writing. Keep in mind that a majority of what I write is secured under a Non-Disclosure Agreement.
 
 ## Awards & Certifications
 
