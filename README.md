@@ -8,7 +8,7 @@
 
 ## Work Experience
 
-💼 Currently I'm a **Software Engineering Intern at Jetson** (VC-backed startup), and a **Data Analyst Intern at STEM•E Youth Career Development Program** (large nonprofit). In the past, I've interned as a **Data Science & ML Intern** at Drippy (local AI/ML startup).
+💼 Currently I'm a **Software Engineering Intern at Jetson** (VC-backed startup), and a **Data Analyst Intern at STEM•E Youth Career Development Program** (large nonprofit). In the past, I've interned as a **Data Science & ML Intern** at Drippy (local AI/ML startup) and as an **App Development Intern** at Jetson (VC-backed startup).
 
 <br>
 
