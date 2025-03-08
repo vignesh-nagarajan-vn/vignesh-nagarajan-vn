@@ -1,4 +1,4 @@
-## Hi there! 👋
+# Hi there! 👋
 
 💬 I'm Vignesh, a high school student interested in pursuing computer science and statistics in college, with the goal of becoming a software engineer or machine learning engineer.
 
