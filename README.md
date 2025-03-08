@@ -28,15 +28,19 @@
 
 ## Awards & Certifications
 
-I've received several recognitions for my technical work, including:
- - 🎯 **National Cyber Scholar** ($3,400 award; <3% selection rate)
- - 👨‍💻 **CyberStart America National Hackathon Finalist** (Top 100/35,000)
- - 💸 **Jetson Entrepreneur-in-Residence Scholarship** ($3,000 VC-backed award)
+💸 I've received several recognitions for my technical work, including:
+ - **National Cyber Scholar** ($3,400 award; <3% selection rate)
+ - **CyberStart America National Hackathon Finalist** (Top 100/35,000)
+ - **Jetson Entrepreneur-in-Residence Scholarship** ($3,000 VC-backed award)
 
 <br>
 
-Additionally, I hold several industry-recognized certifications, including:
+👨‍💻 Additionally, I hold several industry-recognized certifications, including:
  - **GFACT Cybersecurity & Networking Practicioner** (SANS/GIAC)
  - **PCEP Python Certified Entry-Level Programmer** (Python Institute)
  - **Generative AI Prompt Engineering** (Google Cloud)
  - **Training ML Models using Vertex AI** (Google Cloud)
+
+## 2025 Goals
+
+🎯
