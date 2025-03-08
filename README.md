@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-💬 I'm Vignesh, a high school student interested in pursuing computer science and statistics in college, with the goal of becoming a software engineer or machine learning engineer. I'm also very interested in entrepreneurship and plan to start my own business during or after college.
+💬 I'm Vignesh, a high school student interested in pursuing computer science and statistics in college, with the goal of becoming a software engineer or machine learning engineer. I also plan to start my own business in the future as a part-time entrepreneur.
 
 <br>
 
