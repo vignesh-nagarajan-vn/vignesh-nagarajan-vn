@@ -26,7 +26,7 @@
  - A long-form article in Harvard's *Crimson Magazine* written for the International Research Olympiad (Backed by Google, Desmos)
  - A video script & PDF guide for Rishab Jain's *Every SAT Grammar Rule in 15 Minutes* on YouTube (448K+ Views in 6 Months)
  - A couple articles in *Venture - Business Magazine* (600K+ Monthly Views)
- - Monthly blog posts in fintech applications for Jetson
+ - Monthly blog posts in fintech applications for Jetson (~3K+ Monthly Website Views)
 
 ⬅️ Check out my Medium portolio to view a sample of my writing. Keep in mind that a majority of what I write is secured under a Non-Disclosure Agreement.
 
