@@ -49,11 +49,11 @@ Regardless of what I do, I work best at the intersection of rigorous technical t
 ## 🏆 Recognitions & Awards
 
 - 🎓 **Mu Alpha Theta National Scholar** — 1 of 27 selected nationally
-- 🏛️ **Congressional App Challenge Winner**
+- 🏛️ **Congressional App Challenge Winner** — Presented Chronos at DC
 - 🔬 **2× Grand Award Winner** — Arizona Science & Engineering Fair (AzSEF)
 - 🥇 **2× 1st Place** — AreteLabs / AMC Mini-Math Madness
 - 🔐 **National Cyber Scholar** — SANS-GIAC Cybersecurity Scholarship Recipient
-- 💻 **Cyberstart America National Hackathon Winner**
+- 💻 **Cyberstart America National Hackathon Winner** — Top 2.8% of 35.6K+ Competitors
 
 ---
 
