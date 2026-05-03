@@ -31,9 +31,9 @@ Regardless of what I do, I work best at the intersection of rigorous technical t
 
 | Role | Organization | Highlight |
 |------|-------------|-----------|
-| **Founder** | Chronos | Presented at the US Capitol, Washington D.C. |
+| **Founder** | Chronos | Presented at the US Capitol in DC |
 | **Founding Team Member** | Claisen | Filed 2 Patent Applications |
-| **Founding Team Member** | ScienceFair.io | Acquired |
+| **Founding Team Member** | ScienceFair.io | Acquired in May 2025 |
 | **Entrepreneur-in-Residence** | Jetson | Pitched live to 30+ investors |
 
 ---
