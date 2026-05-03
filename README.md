@@ -23,7 +23,7 @@
 
 I'm a **Brown Scholar at Texas A&M Engineering**, pursuing a triple focus in **Computer Science, Economics, and Statistics** — and obsessed with the question of how intelligent systems can automate, optimize, and reshape real-world decisions.
 
-Whether it's shipping product, doing research, or building something from zero, I work best at the intersection of rigorous technical thinking and entrepreneurial execution.
+Regardless of what I do, I work best at the intersection of rigorous technical thinking and entrepreneurial execution.
 
 ---
 
@@ -32,7 +32,7 @@ Whether it's shipping product, doing research, or building something from zero, 
 | Role | Organization | Highlight |
 |------|-------------|-----------|
 | **Founder** | Chronos | Presented at the US Capitol, Washington D.C. |
-| **Founding Team Member** | Claisen | — |
+| **Founding Team Member** | Claisen | Filed 2 Patent Applications |
 | **Founding Team Member** | ScienceFair.io | Acquired |
 | **Entrepreneur-in-Residence** | Jetson | Pitched live to 30+ investors |
 
@@ -40,9 +40,9 @@ Whether it's shipping product, doing research, or building something from zero, 
 
 ## 💼 Industry Experience
 
-- **Data Analytics** — STEME
-- **Software & Product** — Jetson
-- **Data Science & ML** — Drippy
+- **Data Analytics Intern** — STEME, Digital Strategy Team
+- **Software & Product Intern** — Jetson, App Development Team
+- **Data Science & ML Intern** — Drippy Internship Program
 
 ---
 
@@ -59,7 +59,7 @@ Whether it's shipping product, doing research, or building something from zero, 
 
 ## 🛠️ What I'm Working On
 
-I'm currently exploring how applied AI and automated systems can bridge the gap between economic modeling and scalable software — building things worth building.
+I'm currently exploring how applied AI and automated systems can bridge the gap between economic modeling and scalable software, or simply put: building things worth building.
 
 ---
 
