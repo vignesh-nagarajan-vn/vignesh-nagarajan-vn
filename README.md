@@ -1,47 +1,69 @@
-# Hi there! 👋
+<h1 align="center">Hey, I'm Vignesh 👋</h1>
 
-💬 I'm Vignesh, a high school student interested in pursuing computer science and statistics in college, with the goal of becoming a software engineer or machine learning engineer. I also plan to start my own business in the future as a part-time entrepreneur.
+<p align="center">
+  <b>Brown Scholar · Texas A&M Engineering · CS × Economics × Statistics</b><br/>
+  <i>Building at the intersection of applied AI and automated systems.</i>
+</p>
 
-<br>
+<p align="center">
+  <a href="https://www.linkedin.com/in/vignesh-nagarajan-vn/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:vigneshn26@tamu.edu">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="http://vigneshnagarajan.me">
+    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Website"/>
+  </a>
+</p>
 
-🎯 Update this + rest of readme
+---
 
-<br>
+## 🧠 About Me
 
-⚡ I created this GitHub account to improve my  documentation skills and to incorporate open-source projects into my applications.
+I'm a **Brown Scholar at Texas A&M Engineering**, pursuing a triple focus in **Computer Science, Economics, and Statistics** — and obsessed with the question of how intelligent systems can automate, optimize, and reshape real-world decisions.
 
-## Work Experience
+Whether it's shipping product, doing research, or building something from zero, I work best at the intersection of rigorous technical thinking and entrepreneurial execution.
 
-💼 I have extensive field experience through several internships:
- - **Software Engineering Intern** at *Jetson* (VC-backed Fintech Startup) | *Incoming* for 2025 Summer
- - **Data Analyst Intern** at *STEM•E Youth Career Development Program* (Large Nonprofit) | 2023-Present Year-round
- - **App Development Intern** at *Jetson* (VC-backed Fintech Startup) | 2023 Summer
- - **Data Science & ML Intern** at *Drippy* (Local Tech Startup) | 2022 Fall
+---
 
-<br>
+## 🚀 Entrepreneurial Experience
 
-📝 I'm also a **Freelance Content Writer** in the AI/ML, business, and scientific research space. I've published:
- - Over a dozen articles for *Artificial Intelligence in Plain English* (3.5M+ Monthly Views, 10K+ Followers)
- - 25+ articles for Sciencefair.io & Qurios Institute, as well as 250+ Q/A & FAQ respones, resulting in 15K+ website leads
- - A long-form article in Harvard's *Crimson Magazine* written for the International Research Olympiad (Backed by Google, Desmos)
- - A video script & PDF guide for Rishab Jain's *Every SAT Grammar Rule in 15 Minutes* on YouTube (448K+ Views in 6 Months)
- - A couple articles in *Venture - Business Magazine* (600K+ Monthly Views)
- - Monthly blog posts in fintech applications for Jetson (~3K+ Monthly Website Views)
+| Role | Organization | Highlight |
+|------|-------------|-----------|
+| **Founder** | Chronos | Presented at the US Capitol, Washington D.C. |
+| **Founding Team Member** | Claisen | — |
+| **Founding Team Member** | ScienceFair.io | Acquired |
+| **Entrepreneur-in-Residence** | Jetson | Pitched live to 30+ investors |
 
-⬅️ Check out my Medium portolio to view a sample of my writing. Keep in mind that a majority of what I write is secured under a Non-Disclosure Agreement.
+---
 
-## Awards & Certifications
+## 💼 Industry Experience
 
-💸 I've received several recognitions for my technical work, including:
- - **National Cyber Scholar** ($3,400 award; <3% selection rate)
- - **CyberStart America National Hackathon Finalist** (Top 100/35,000)
- - **Jetson Entrepreneur-in-Residence Scholarship** ($3,000 VC-backed award)
+- **Data Analytics** — STEME
+- **Software & Product** — Jetson
+- **Data Science & ML** — Drippy
 
-<br>
+---
 
-👨‍💻 Additionally, I hold several industry-recognized certifications, including:
- - **GFACT Cybersecurity & Networking Practicioner** (SANS/GIAC)
- - **PCEP Python Certified Entry-Level Programmer** (Python Institute)
- - **Generative AI Prompt Engineering** (Google Cloud)
- - **Training ML Models using Vertex AI** (Google Cloud)
+## 🏆 Recognitions & Awards
 
+- 🎓 **Mu Alpha Theta National Scholar** — 1 of 27 selected nationally
+- 🏛️ **Congressional App Challenge Winner**
+- 🔬 **2× Grand Award Winner** — Arizona Science & Engineering Fair (AzSEF)
+- 🥇 **2× 1st Place** — AreteLabs / AMC Mini-Math Madness
+- 🔐 **National Cyber Scholar** — SANS-GIAC Cybersecurity Scholarship Recipient
+- 💻 **Cyberstart America National Hackathon Winner**
+
+---
+
+## 🛠️ What I'm Working On
+
+I'm currently exploring how applied AI and automated systems can bridge the gap between economic modeling and scalable software — building things worth building.
+
+---
+
+<p align="center">
+  <i>Always open to interesting problems, collaborations, and conversations.</i><br/>
+  <b>Reach me at <a href="mailto:vigneshn26@tamu.edu">vigneshn26@tamu.edu</a></b>
+</p>
