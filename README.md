@@ -59,7 +59,7 @@ Regardless of what I do, I work best at the intersection of rigorous technical t
 
 ## 🛠️ What I'm Working On
 
-I'm currently exploring how applied AI and automated systems can bridge the gap between economic modeling and scalable software, or simply put: building things worth building.
+I'm currently exploring how applied AI and automated systems can bridge the gap between economic modeling and scalable software, or simply put: **building things worth building.**
 
 ---
 
