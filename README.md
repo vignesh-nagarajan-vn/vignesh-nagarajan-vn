@@ -19,24 +19,18 @@
 
 ---
 
-## Building
-
-| Project | Highlight |
-|---------|-----------|
-| **Chronos** | Full-stack cross-calendar scheduling platform; Congressional App Challenge winner |
-| **Claisen** | Founding engineer; filed 2 patent applications |
-| **ScienceFair.io** | Finetuned & deployed an LLM for marketing; 7-figure acquisition (2025) |
-
 ## Technical Roles
 
 - **Technology & Implementation Consulting Extern** — Deloitte, Tempe Office
-- **Data Science & ML Intern** — Drippy
-- **Software & Product Intern** — Jetson ($3M Series A Raise)
+- **Founding Team Member** - ScienceFair.io (Acquired)
 - **Data Analyst Intern** — STEM·E YCDP, Digital Strategy
+- **Software & Product Intern** — Jetson ($3M Series A Raise)
+- **Data Science & ML Intern** — Drippy
+
 
 ## Technical Awards
 
-- **Mu Alpha Theta National Scholar** - 1 of 27 Scholars, $4K Award, First-ever Arizona Winner
+- **Mu Alpha Theta National Scholar** — 1 of 27 Scholars, $4K Award, First-ever Arizona Winner
 - **Congressional App Challenge Winner** — Presented Chronos at the US Capitol
 - **National Cyber Scholar** — SANS-GIAC Cybersecurity Scholarship Recipient
 - **CyberStart America Hackathon Winner** — Top ~2.8% of cCompetitors
