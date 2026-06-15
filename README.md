@@ -1,7 +1,7 @@
 <h1 align="center">Vignesh Nagarajan</h1>
 
 <p align="center">
-  <b>Texas A&amp;M Engineering · Computer Science × Economics × Statistics</b><br/>
+  <b>Texas A&amp;M Engineering · Computer Science × Econometrics </b><br/>
   <i>Currently working on AI backlayers in applied economics.</i>
 </p>
 
