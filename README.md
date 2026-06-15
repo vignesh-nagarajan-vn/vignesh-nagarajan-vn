@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="VN_Personal_Portfolio_Favicon_2.png" alt="Vignesh Nagarajan" width="120"/>
-</p>
-
 <h1 align="center">Vignesh Nagarajan</h1>
 <p align="center">
   <b>Texas A&amp;M Engineering · Computer Science × Econometrics </b><br/>
