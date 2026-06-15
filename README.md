@@ -1,8 +1,8 @@
 <h1 align="center">Vignesh Nagarajan</h1>
 
 <p align="center">
-  <b>Texas A&amp;M Engineering · CS × Economics × Statistics</b><br/>
-  <i>Building at the intersection of applied AI and automated systems.</i>
+  <b>Texas A&amp;M Engineering · Computer Science × Economics × Statistics</b><br/>
+  <i>Currently working on AI backlayers in applied economics.</i>
 </p>
 
 <p align="center">
@@ -19,7 +19,7 @@
 
 ---
 
-## Technical Roles
+## Selected Roles
 
 - **Technology & Implementation Consulting Extern** — Deloitte, Tempe Office
 - **Founding Team Member** - ScienceFair.io (Acquired, May 2025)
@@ -28,7 +28,7 @@
 - **Data Science & ML Intern** — Drippy
 
 
-## Technical Awards
+## Notable Awards
 
 - **Mu Alpha Theta National Scholar** — 1 of 27 Scholars, $4K Award, First-ever Arizona Winner
 - **Congressional App Challenge Winner** — Presented Chronos at the US Capitol
