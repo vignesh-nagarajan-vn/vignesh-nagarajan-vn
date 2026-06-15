@@ -1,10 +1,8 @@
 <h1 align="center">Vignesh Nagarajan</h1>
-
 <p align="center">
   <b>Texas A&amp;M Engineering · Computer Science × Econometrics </b><br/>
   <i>Currently working on AI backlayers in applied economics.</i>
 </p>
-
 <p align="center">
   <a href="https://www.linkedin.com/in/vignesh-nagarajan-vn/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -19,17 +17,18 @@
 
 ---
 
-## Selected Roles
-
+## Technical Roles
 - **Technology & Implementation Consulting Extern** — Deloitte, Tempe Office
 - **Founding Team Member** - ScienceFair.io (Acquired, May 2025)
 - **Data Analyst Intern** — STEM·E Career Development Program
 - **Software & Product Intern** — Jetson ($3M Series A Raise)
 - **Data Science & ML Intern** — Drippy
 
+## Selected Projects
+- **[Chronos](https://github.com/vignesh-nagarajan-vn/Chronos)** — Full-stack web app that auto-schedules group meetings across everyone's Google Calendar using a multi-factor slot-scoring algorithm.
+- **[Hustle](https://github.com/vignesh-nagarajan-vn/Hustle)** — Full-stack web app that ATS-scans your resume to recommend tailored side hustles and the resources to break into them.
 
 ## Notable Awards
-
 - **Mu Alpha Theta National Scholar** — 1 of 27 Scholars, $4K Award, First-ever Arizona Winner
 - **Congressional App Challenge Winner** — Presented Chronos at the US Capitol
 - **National Cyber Scholar** — SANS-GIAC Cybersecurity Scholarship Recipient, $3.4K Award
