@@ -22,7 +22,7 @@
 - **Founding Team Member** - ScienceFair.io (Acquired, May 2025)
 - **Data Analyst Intern** — STEM·E Career Development Program
 - **Software & Product Intern** — Jetson ($3M Series A Raise)
-- **Data Science & ML Intern** — Drippy
+- **Data Science & Machine Learning Intern** — Drippy
 
 ## Selected Projects
 - **[Chronos](https://github.com/vignesh-nagarajan-vn/Chronos)** — Full-stack web app that auto-schedules group meetings across everyone's Google Calendar using a multi-factor slot-scoring algorithm. Won the Congressional App Challenge & Ultra (YC W24) Pitch Competition.
