@@ -35,7 +35,7 @@
 - **Congressional App Challenge Winner** — Presented Chronos at the US Capitol
 - **National Cyber Scholar** — SANS-GIAC Cybersecurity Scholarship Recipient, $3.4K Award
 - **CyberStart America Hackathon Winner** — Top ~2.8% of 35K+ Competitors
-- **AMC / AreteLabs Mini-Math Madness** — 2× 1st Place National Champion
+- **AMC / AreteLabs Mini-Math Madness** — 2× 1st Place (National Champions) & 1x 2nd Place
 
 ---
 
