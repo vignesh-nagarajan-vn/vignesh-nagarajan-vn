@@ -32,8 +32,8 @@
 
 - **Mu Alpha Theta National Scholar** — 1 of 27 Scholars, $4K Award, First-ever Arizona Winner
 - **Congressional App Challenge Winner** — Presented Chronos at the US Capitol
-- **National Cyber Scholar** — SANS-GIAC Cybersecurity Scholarship Recipient
-- **CyberStart America Hackathon Winner** — Top ~2.8% of Competitors
+- **National Cyber Scholar** — SANS-GIAC Cybersecurity Scholarship Recipient, $3.4K Award
+- **CyberStart America Hackathon Winner** — Top ~2.8% of 35K+ Competitors
 - **AMC / AreteLabs Mini-Math Madness** — 2× 1st Place National Champion
 
 ---
