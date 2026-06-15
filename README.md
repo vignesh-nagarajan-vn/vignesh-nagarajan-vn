@@ -21,25 +21,26 @@
 
 ## Building
 
-| Project | Stack | Highlight |
-|---------|-------|-----------|
-| **Chronos** | React · Firebase · Vercel · Python | Full-stack cross-calendar scheduling platform; Congressional App Challenge winner |
-| **Claisen** | — | Founding engineer; filed 2 patent applications |
-| **ScienceFair.io** | MoE LLM | Finetuned & deployed an LLM for marketing; 7-figure acquisition (2025) |
+| Project | Highlight |
+|---------|-----------|
+| **Chronos** | Full-stack cross-calendar scheduling platform; Congressional App Challenge winner |
+| **Claisen** | Founding engineer; filed 2 patent applications |
+| **ScienceFair.io** | Finetuned & deployed an LLM for marketing; 7-figure acquisition (2025) |
 
 ## Technical Roles
 
-- **Tech Consulting Extern** — Deloitte (Technology & Implementation)
+- **Technology & Implementation Consulting Extern** — Deloitte, Tempe Office
 - **Data Science & ML Intern** — Drippy
-- **Software & Product Intern** — Jetson
-- **Data Analyst Intern** — STEM·E (Python, Pandas, Matplotlib; automated 3 processes, +340%)
+- **Software & Product Intern** — Jetson ($3M Series A Raise)
+- **Data Analyst Intern** — STEM·E YCDP, Digital Strategy
 
 ## Technical Awards
 
-- **Congressional App Challenge Winner** — presented Chronos at the US Capitol
-- **National Cyber Scholar** — SANS-GIAC Cybersecurity Scholarship recipient
-- **CyberStart America Hackathon Winner** — top ~2.8% of competitors
-- **AMC / AreteLabs Mini-Math Madness** — 2× 1st Place national champion
+- **Mu Alpha Theta National Scholar** - 1 of 27 Scholars, $4K Award, First-ever Arizona Winner
+- **Congressional App Challenge Winner** — Presented Chronos at the US Capitol
+- **National Cyber Scholar** — SANS-GIAC Cybersecurity Scholarship Recipient
+- **CyberStart America Hackathon Winner** — Top ~2.8% of cCompetitors
+- **AMC / AreteLabs Mini-Math Madness** — 2× 1st Place National Champion
 
 ---
 
