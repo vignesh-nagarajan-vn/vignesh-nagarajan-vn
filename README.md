@@ -21,7 +21,7 @@
 - **Technology & Implementation Consulting Extern** — Deloitte, Tempe Office
 - **Founding Team Member** — ScienceFair.io (Acquired, May 2025)
 - **Data Analyst Intern** — STEM·E Career Development Program
-- **Software & Product Intern** — Jetson ($3M Series A Raise)
+- **Software Development Intern** — Jetson ($3M Series A Raise)
 - **Data Science & Machine Learning Intern** — Drippy
 
 ## Selected Projects
