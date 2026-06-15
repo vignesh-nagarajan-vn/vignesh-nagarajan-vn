@@ -22,8 +22,8 @@
 ## Technical Roles
 
 - **Technology & Implementation Consulting Extern** — Deloitte, Tempe Office
-- **Founding Team Member** - ScienceFair.io (Acquired)
-- **Data Analyst Intern** — STEM·E YCDP, Digital Strategy
+- **Founding Team Member** - ScienceFair.io (Acquired, May 2025)
+- **Data Analyst Intern** — STEM·E Career Development Program
 - **Software & Product Intern** — Jetson ($3M Series A Raise)
 - **Data Science & ML Intern** — Drippy
 
