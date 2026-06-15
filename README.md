@@ -25,7 +25,7 @@
 - **Data Science & ML Intern** — Drippy
 
 ## Selected Projects
-- **[Chronos](https://github.com/vignesh-nagarajan-vn/Chronos)** — Full-stack web app that auto-schedules group meetings across everyone's Google Calendar using a multi-factor slot-scoring algorithm.
+- **[Chronos](https://github.com/vignesh-nagarajan-vn/Chronos)** — Full-stack web app that auto-schedules group meetings across everyone's Google Calendar using a multi-factor slot-scoring algorithm. Won the Congressional App Challenge & Ultra (YC W24) Pitch Competition.
 - **[Hustle](https://github.com/vignesh-nagarajan-vn/Hustle)** — Full-stack web app that ATS-scans your resume to recommend tailored side hustles and the resources to break into them.
 
 ## Notable Awards
