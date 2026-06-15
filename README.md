@@ -26,6 +26,8 @@
 
 ## Selected Projects
 - **[Chronos](https://github.com/vignesh-nagarajan-vn/Chronos)** — Full-stack web app that auto-schedules group meetings across everyone's Google Calendar using a multi-factor slot-scoring algorithm. Won the Congressional App Challenge & Ultra (YC W24) Pitch Competition.
+- **[CANVAS](https://arxiv.org/abs/2606.09846)** — Published arXiv paper (cs.HC) presenting an automated pipeline that converts artwork images into rich, multi-sensory captions and synchronized audio narration for blind and low-vision audiences, using LLMs and text-to-speech orchestrated through Zapier.
+- **[PEBSA](https://www.ijecs.in/index.php/ijecs/article/view/4950)** — Peer-reviewed ML model (IJECS) that classifies public sentiment toward U.S. economic performance from social media and pairs it with macroeconomic reasoning to forecast future economic behavior.
 - **[Hustle](https://github.com/vignesh-nagarajan-vn/Hustle)** — Full-stack web app that ATS-scans your resume to recommend tailored side hustles and the resources to break into them.
 
 ## Notable Awards
