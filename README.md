@@ -25,10 +25,10 @@
 - **Data Science & Machine Learning Intern** — Drippy
 
 ## Selected Projects
-- **[Chronos](https://github.com/vignesh-nagarajan-vn/Chronos)** — Full-stack web app that auto-schedules group meetings across everyone's Google Calendar using a multi-factor slot-scoring algorithm. Won the Congressional App Challenge & Ultra (YC W24) Pitch Competition.
-- **[CANVAS](https://arxiv.org/abs/2606.09846)** — Published arXiv paper (cs.HC) presenting an automated pipeline that converts artwork images into rich, multi-sensory captions and synchronized audio narration for blind and low-vision audiences, using LLMs and text-to-speech.
-- **[PEBSA](https://www.ijecs.in/index.php/ijecs/article/view/4950)** — Peer-reviewed ML model (IJECS) that classifies public sentiment toward U.S. economic performance from social media and pairs it with macroeconomic reasoning to forecast future economic behavior.
-- **[Hustle](https://github.com/vignesh-nagarajan-vn/Hustle)** — Full-stack web app that ATS-scans your resume to recommend tailored side hustles and the resources to break into them.
+- **[Chronos](https://github.com/vignesh-nagarajan-vn/Chronos)** — Full-stack web-app that syncs each participant's Google Calendar via OAuth and resolves optimal group meeting times through a multi-factor slot-scoring algorithm weighing mutual availability, time-of-day, and preference constraints. Won the Congressional App Challenge & Ultra (YC W24) Pitch Competition, securing funding.
+- **[CANVAS](https://arxiv.org/abs/2606.09846)** — Published arXiv paper (cs.HC) introducing a vision-language pipeline that converts artwork images into rich, multi-sensory captions via prompt-chained LLMs, then renders synchronized, time-aligned audio narration through text-to-speech for blind and low-vision audiences.
+- **[PEBSA](https://www.ijecs.in/index.php/ijecs/article/view/4950)** — Peer-reviewed ML model (IJECS) that trains an NLP sentiment classifier on social-media text to score public perception of U.S. economic performance, then fuses those signals with macroeconomic indicators to forecast future economic behavior. 80,000+ messages analyzed with a 97+% accuracy rate across a 4 month testing period.
+- **[Hustle](https://github.com/vignesh-nagarajan-vn/Hustle)** — Full-stack web app that parses and ATS-scans your resume to extract skills and gaps, then matches them against a scored opportunity index to recommend tailored side hustles plus curated resources to break into each. Built during the 2024 Jetson Entrepreneurship-in-Residence program and pitched live to 30+ investors, securing a $3K award.
 
 ## Notable Awards
 - **Mu Alpha Theta National Scholar** — 1 of 27 Scholars, $4K Award, First-ever Arizona Winner
