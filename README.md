@@ -30,6 +30,9 @@
 - **[PEBSA](https://www.ijecs.in/index.php/ijecs/article/view/4950)** — Peer-reviewed ML model (IJECS) that trains an NLP sentiment classifier on social-media text to score public perception of U.S. economic performance, then fuses those signals with macroeconomic indicators to forecast future economic behavior. 80,000+ messages analyzed with a 97+% accuracy rate across a 4 month testing period.
 - **[Hustle](https://github.com/vignesh-nagarajan-vn/Hustle)** — Full-stack web app that parses and ATS-scans your resume to extract skills and gaps, then matches them against a scored opportunity index to recommend tailored side hustles plus curated resources to break into each. Built during the 2024 Jetson Entrepreneurship-in-Residence program and pitched live to 30+ investors, securing a $3K award.
 
+Currently building **REFLEX** (Reflexive Equilibrium Fixed-point Learning for endogenous financial markets) and **Ordinance** (AI backlayer for Congressional offices to optimize workflows through automatic AI, or "Actionable Insights")
+
+
 ## Notable Awards
 - **Mu Alpha Theta National Scholar** — 1 of 27 Scholars, $4K Award, First-ever Arizona Winner
 - **Congressional App Challenge Winner** — Presented Chronos at the US Capitol
