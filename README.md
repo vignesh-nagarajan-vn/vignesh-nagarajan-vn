@@ -1,7 +1,7 @@
 <h1 align="center">Vignesh Nagarajan</h1>
 <p align="center">
   <b>Texas A&amp;M Engineering · Computer Science × Econometrics </b><br/>
-  <i>Currently working on AI backlayers in applied economics.</i>
+  <i>Machine Learning | Automation | Game Theory | Cognitive Modeling</i>
 </p>
 <p align="center">
   <a href="https://vigneshnagarajan.me/">
@@ -25,7 +25,7 @@
 - **Data Science & Machine Learning Intern** — Drippy
 
 ## Selected Projects
-- **[Chronos](https://github.com/vignesh-nagarajan-vn/Chronos)** — Full-stack web-app that syncs each participant's Google Calendar via OAuth and resolves optimal group meeting times through a multi-factor slot-scoring algorithm weighing mutual availability, time-of-day, and preference constraints. Won the Congressional App Challenge & Ultra (YC W24) Pitch Competition, securing funding.
+- **[Chronos](https://github.com/vignesh-nagarajan-vn/Chronos)** — Full-stack web app that syncs each participant's Google Calendar via OAuth and resolves optimal group meeting times through a multi-factor slot-scoring algorithm weighing mutual availability, time-of-day, and preference constraints. Won the Congressional App Challenge & Ultra (YC W24) Pitch Competition, securing funding.
 - **[CANVAS](https://arxiv.org/abs/2606.09846)** — Published arXiv paper (cs.HC) introducing a vision-language pipeline that converts artwork images into rich, multi-sensory captions via prompt-chained LLMs, then renders synchronized, time-aligned audio narration through text-to-speech for blind and low-vision audiences. Full pipeline produces text + audio outputs in >20s/image at a cost below $0.05.
 - **[PEBSA](https://www.ijecs.in/index.php/ijecs/article/view/4950)** — Peer-reviewed ML model (IJECS) that trains an NLP sentiment classifier on social-media text to score public perception of U.S. economic performance, then fuses those signals with macroeconomic indicators to forecast future economic behavior. 80,000+ messages analyzed with a 97+% accuracy rate across a 4 month testing period.
 - **[Hustle](https://github.com/vignesh-nagarajan-vn/Hustle)** — Full-stack web app that parses and ATS-scans your resume to extract skills and gaps, then matches them against a scored opportunity index to recommend tailored side hustles plus curated resources to break into each. Built during the 2024 Jetson Entrepreneurship-in-Residence program and pitched live to 30+ investors, securing a $3K award.
