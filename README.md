@@ -26,13 +26,13 @@
 
 ## Selected Projects
 - **[SchoolPulse AI](https://github.com/vignesh-nagarajan-vn/SchoolPulse-AI/)** — Edge-AI suite with statistically-gated leak detection (confidence-interval slope analysis on simulated sensor data), an EfficientNet-based waste-sorting classifier (96% accuracy, deployed via TFLite), and a RAG-driven operations agent, all unified via a dashboard tracking a school's water, food, and energy footprint.
-- **[MIRROR](https://github.com/vignesh-nagarajan-vn/MIRROR/)** — Full-stack explainable medical-AI pipeline that classifies chest radiographs, localizes evidence with Grad-CAM saliency overlays, and generates a clinician-style draft report grounded only on that evidence. Benchmarks prediction (AUROC/F1) and explanation (IoU) metrics on NIH ChestX-ray14 (112,120 images, 14 categories).
 - **[CANVAS](https://arxiv.org/abs/2606.09846)** — Preprinted arXiv paper (cs.HC) introducing a vision-language pipeline that converts artwork images into rich, multi-sensory captions via prompt-chained LLMs, then renders synchronized, time-aligned audio narration through text-to-speech for blind and low-vision audiences. Full pipeline produces text + audio outputs in >20s/image at a cost below $0.05.
 - **[PEBSA](https://www.ijecs.in/index.php/ijecs/article/view/4950)** — Peer-reviewed ML model (IJECS) that trains an NLP sentiment classifier on social-media text to score public perception of U.S. economic performance, then fuses those signals with macroeconomic indicators to forecast future economic behavior. 80,000+ messages analyzed with a 0.0124 MSE and 0.9982 R² across a 4 month testing period.
+- **[Ordinance](https://github.com/vignesh-nagarajan-vn/Ordinance)** — Full-stack AI backlayer for Congressional offices, running a keyword-scored RAG pipeline over a curated federal corpus (EPA rules, OMB circulars, CISA directives) that returns citation-bracketed answers anchored to CFR/USC references, with all inference proxied through serverless API routes so credentials never reach the browser.
 
 - **[Chronos](https://github.com/vignesh-nagarajan-vn/Chronos)** — Full-stack web app that syncs each participant's Google Calendar via OAuth and resolves optimal group meeting times through a multi-factor slot-scoring algorithm weighing mutual availability, time-of-day, and preference constraints. Won the Congressional App Challenge & Ultra (YC W24) Pitch Competition, securing funding.
 
-Currently building **REFLEX** (Reflexive Equilibrium Fixed-point Learning for endogenous financial markets) and **Ordinance** (AI backlayer for Congressional offices to optimize workflows through automatic AI, or "Actionable Insights").
+Currently building **REFLEX** (Reflexive Equilibrium Fixed-point Learning for endogenous financial markets) and **MIRROR** (Multimodal Intelligent Radiology Reasoning and Observation Reporter).
 
 
 ## Relevant Awards
