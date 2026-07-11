@@ -26,19 +26,18 @@
 
 ## Selected Projects
 - **[SchoolPulse AI](https://github.com/vignesh-nagarajan-vn/SchoolPulse-AI/)** — Edge-AI suite with statistically-gated leak detection (confidence-interval slope analysis on simulated sensor data), an EfficientNet-based waste-sorting classifier (96% accuracy, deployed via TFLite), and a RAG-driven operations agent, all unified via a dashboard tracking a school's water, food, and energy footprint.
-- [Norn](https://github.com/vignesh-nagarajan-vn/Norn/) — Variant-interpretation copilot that drafts ACMG/AMP evidence for a human curator: paste a genetic variant (HGVS, rsID, or locus) and Norn pulls from public genomics databases, adjudicates each criterion with a two-pass Claude reviewer, then computes the classification in code. Built at Claude Life Sciences Hackathon (1 of 500 builders selected from 6,000+ applicants).
+- [Norn](https://github.com/vignesh-nagarajan-vn/Norn/) — Variant-interpretation copilot that drafts ACMG/AMP evidence for a human curator: paste a genetic variant (HGVS, rsID, or locus) and Norn pulls from public genomics databases, adjudicates each criterion with a two-pass Claude reviewer, then computes the classification in code. Built at Claude Life Sciences Hackathon (1 of 500 selected from 6,000+ applicants).
 - **[CANVAS](https://arxiv.org/abs/2606.09846)** — Preprinted arXiv paper (cs.HC) introducing a vision-language pipeline that converts artwork images into rich, multi-sensory captions via prompt-chained LLMs, then renders synchronized, time-aligned audio narration through text-to-speech for blind and low-vision audiences. Full pipeline produces text + audio outputs in >20s/image at a cost below $0.05.
 - **[PEBSA](https://www.ijecs.in/index.php/ijecs/article/view/4950)** — Peer-reviewed ML model (IJECS) that trains an NLP sentiment classifier on social-media text to score public perception of U.S. economic performance, then fuses those signals with macroeconomic indicators to forecast future economic behavior. 80,000+ messages analyzed with a 0.0124 MSE and 0.9982 R² across a 4 month testing period.
-- **[Ordinance](https://github.com/vignesh-nagarajan-vn/Ordinance)** — Full-stack AI backlayer for Congressional offices, running a keyword-scored RAG pipeline over a curated federal corpus (EPA rules, OMB circulars, CISA directives) that returns citation-bracketed answers anchored to CFR/USC references, with all inference proxied through serverless API routes so credentials never reach the browser.
 
-- **[Chronos](https://github.com/vignesh-nagarajan-vn/Chronos)** — Full-stack web app that syncs each participant's Google Calendar via OAuth and resolves optimal group meeting times through a multi-factor slot-scoring algorithm weighing mutual availability, time-of-day, and preference constraints. Won the Congressional App Challenge & Ultra (YC W24) Pitch Competition, securing funding.
+- **[Ordinance](https://github.com/vignesh-nagarajan-vn/Ordinance)** — Full-stack AI backlayer for Congressional offices, running a keyword-scored RAG pipeline over a curated federal corpus (EPA rules, OMB circulars, CISA directives) that returns citation-bracketed answers anchored to CFR/USC references, with all inference proxied through serverless API routes so credentials never reach the browser.
 
 Currently building **REFLEX** (Reflexive Equilibrium Fixed-point Learning for endogenous financial markets) and **MIRROR** (Multimodal Intelligent Radiology Reasoning and Observation Reporter).
 
 
 ## Relevant Awards
 - **Mu Alpha Theta National Scholar** — 1 of 27 Scholars, $4K Award, First-ever Arizona Winner
-- **Congressional App Challenge Winner** — Presented Chronos at the US Capitol
+- **Congressional App Challenge Winner** — Presented [Chronos](https://github.com/vignesh-nagarajan-vn/Chronos) at the US Capitol
 - **National Cyber Scholar** — SANS-GIAC Cybersecurity Scholarship Recipient, $3.4K Award
 - **CyberStart America Hackathon Winner** — Top ~2.8% of 35K+ Competitors
 - **AMC / AreteLabs Mini-Math Madness** — 2× 1st Place (National Champions) & 1x 2nd Place
