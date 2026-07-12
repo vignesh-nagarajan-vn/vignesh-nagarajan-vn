@@ -34,7 +34,7 @@ Currently building **REFLEX** (Reflexive Equilibrium Fixed-point Learning for en
 
 ## Research Papers
 
-- **Nagarajan, V. (2026).** *CANVAS: Captioning Art with Narrative Visual-Audio AI Systems.* arXiv Computer Science, Human-Computer Interaction (cs.HC). https://doi.org/10.48550/arxiv.2606.09846
+- **Nagarajan, V. (2025).** *CANVAS: Captioning Art with Narrative Visual-Audio AI Systems.* arXiv Computer Science, Human-Computer Interaction (cs.HC). https://doi.org/10.48550/arxiv.2606.09846
 - **Nagarajan, V. (2024);** Mittal, A. (2024). *PEBSA: Public Economic Behavior Sentiment Analysis.* International Journal of Engineering and Computer Science (IJECS). https://doi.org/10.18535/ijecs/v13i12.4950
 
 
