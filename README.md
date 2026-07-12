@@ -30,10 +30,11 @@
 
 - **[Ordinance](https://github.com/vignesh-nagarajan-vn/Ordinance)** — Full-stack AI backlayer for Congressional offices, running a keyword-scored RAG pipeline over a curated federal corpus (EPA rules, OMB circulars, CISA directives) that returns citation-bracketed answers anchored to CFR/USC references, with all inference proxied through serverless API routes so credentials never reach the browser.
 
-Currently building **REFLEX** (Reflexive Equilibrium Fixed-point Learning for endogenous financial markets) and **MIRROR** (Multimodal Intelligent Radiology Reasoning and Observation Reporter).
+Currently building **REFLEX** (Reflexive Equilibrium Fixed-point Learning for endogenous financial markets).
 
 ## Research Papers
 
+- **Nagarajan, V. (2026).** *MIRROR: Multimodal Intelligent Radiology Reasoning and Observation Reporter.* medRxiv, Radiology and Imaging.
 - **Nagarajan, V. (2025).** *CANVAS: Captioning Art with Narrative Visual-Audio AI Systems.* arXiv Computer Science, Human-Computer Interaction (cs.HC). https://doi.org/10.48550/arxiv.2606.09846
 - **Nagarajan, V. (2024);** Mittal, A. (2024). *PEBSA: Public Economic Behavior Sentiment Analysis.* International Journal of Engineering and Computer Science (IJECS). https://doi.org/10.18535/ijecs/v13i12.4950
 
