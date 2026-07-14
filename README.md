@@ -40,7 +40,7 @@ Currently building **REFLEX** (Reflexive Equilibrium Fixed-point Learning for en
 
 
 ## Open-Source Contributions
-- **[yfinance](https://github.com/ranaroussi/yfinance)** — Three upstream fixes to the most widely used Python library for Yahoo Finance market data: (1) fixed a 4-year-old bug where 30-min price requests raised misleading unavailability errors from an internal interval substitution ([PR #2900](https://github.com/ranaroussi/yfinance/pull/2900) for Issue #1029); (2) stopped error messages from falsely claiming tickers are "possibly delisted" when Yahoo already states the real cause ([PR #2903](https://github.com/ranaroussi/yfinance/pull/2903) for 5 Issues incl. #2902); (3) repaired pandas 3 test-suite breakage from zoneinfo vs pytz timezone comparisons ([PR #2901](https://github.com/ranaroussi/yfinance/pull/2901)).
+- **[yfinance](https://github.com/ranaroussi/yfinance)** — Three upstream fixes to the most widely used Python library for Yahoo Finance market data: (1) fixed a 4-year-old bug where 30-min price requests raised misleading unavailability errors from an internal interval substitution ([PR #2900](https://github.com/ranaroussi/yfinance/pull/2900) for Issue #1029); (2) repaired pandas 3 test-suite breakage from zoneinfo vs pytz timezone comparisons ([PR #2901](https://github.com/ranaroussi/yfinance/pull/2901)); (3) stopped error messages from falsely claiming tickers are "possibly delisted" ([PR #2903](https://github.com/ranaroussi/yfinance/pull/2903) for 5 Issues incl. #2902).
 
 
 ## Relevant Awards
