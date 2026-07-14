@@ -34,9 +34,13 @@ Currently building **REFLEX** (Reflexive Equilibrium Fixed-point Learning for en
 
 ## Research Papers
 
-- **Nagarajan, V. (2026).** ***[MIRROR](https://github.com/vignesh-nagarajan-vn/MIRROR)**: Multimodal Intelligent Radiology Reasoning and Observation Reporter.* medRxiv, Radiology and Imaging.
+- **Nagarajan, V. (2026).** ***[MIRROR](https://github.com/vignesh-nagarajan-vn/MIRROR)**: Multimodal Intelligent Radiology Reasoning and Observation Reporter.* arXiv Computer Science, Computer Vision and Pattern Recognition (cs.CV) — Pending Preprint
 - **Nagarajan, V. (2025).** *CANVAS: Captioning Art with Narrative Visual-Audio AI Systems.* arXiv Computer Science, Human-Computer Interaction (cs.HC). https://doi.org/10.48550/arxiv.2606.09846
 - **Nagarajan, V. (2024);** Mittal, A. (2024). *PEBSA: Public Economic Behavior Sentiment Analysis.* International Journal of Engineering and Computer Science (IJECS). https://doi.org/10.18535/ijecs/v13i12.4950
+
+
+## Open Source Contributions
+- **[yfinance](https://github.com/ranaroussi/yfinance)** — Fixed a 4-year-old bug in the most widely used Python library for Yahoo Finance market data, where 30-minute price requests raised misleading unavailability errors from an internal interval substitution; merged upstream by the core maintainer, with a live regression test ([PR #2900 for Issue #1029](https://github.com/ranaroussi/yfinance/pull/2900)).
 
 
 ## Relevant Awards
