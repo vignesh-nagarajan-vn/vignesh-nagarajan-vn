@@ -39,8 +39,8 @@ Currently building **REFLEX** (Reflexive Equilibrium Fixed-point Learning for en
 - **Nagarajan, V. (2024);** Mittal, A. (2024). *PEBSA: Public Economic Behavior Sentiment Analysis.* International Journal of Engineering and Computer Science (IJECS). https://doi.org/10.18535/ijecs/v13i12.4950
 
 
-## Open Source Contributions
-- **[yfinance](https://github.com/ranaroussi/yfinance)** — Fixed a 4-year-old bug in the most widely used Python library for Yahoo Finance market data, where 30-minute price requests raised misleading unavailability errors from an internal interval substitution; merged upstream by the core maintainer, with a live regression test ([PR #2900 for Issue #1029](https://github.com/ranaroussi/yfinance/pull/2900)).
+## Open-Source Contributions
+- **[yfinance](https://github.com/ranaroussi/yfinance)** — Three upstream fixes to the most widely used Python library for Yahoo Finance market data: (1) fixed a 4-year-old bug where 30-minute price requests raised misleading unavailability errors from an internal interval substitution ([PR #2900](https://github.com/ranaroussi/yfinance/pull/2900) for Issue #1029); (2) stopped error messages from falsely claiming tickers are "possibly delisted" when Yahoo already states the real cause ([PR #2903](https://github.com/ranaroussi/yfinance/pull/2903) for Issues #1713, 1797, 2044, 2052, 2902); (3) repaired pandas 3 test-suite breakage from zoneinfo vs pytz timezone comparisons ([PR #2901](https://github.com/ranaroussi/yfinance/pull/2901)).
 
 
 ## Relevant Awards
