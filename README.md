@@ -41,6 +41,8 @@ Currently building **REFLEX** (Reflexive Equilibrium Fixed-point Learning for en
 
 ## Open-Source Contributions
 - **[yfinance](https://github.com/ranaroussi/yfinance)** — Three upstream fixes to the most widely used Python library for Yahoo Finance market data: (1) fixed a 4-year-old bug where 30-min price requests raised misleading unavailability errors from an internal interval substitution ([PR #2900](https://github.com/ranaroussi/yfinance/pull/2900) for Issue #1029); (2) repaired pandas 3 test-suite breakage from zoneinfo vs pytz timezone comparisons ([PR #2901](https://github.com/ranaroussi/yfinance/pull/2901)); (3) stopped error messages from falsely claiming tickers are "possibly delisted" ([PR #2903](https://github.com/ranaroussi/yfinance/pull/2903) for 5 Issues incl. #2902).
+- **[qlib](https://github.com/microsoft/qlib)** — Two contributions to Microsoft's AI-quant investment platform: (1) fixed two long-standing FileInstrumentStorage bugs that were corrupting qlib's instrument files, adding regression tests plus a new self-contained class and 7 new functions ([PR #2302](https://github.com/microsoft/qlib/pull/2302) for Issue #1720); (2) aligned the pre-commit black formatting hook with the version CI enforces ([PR #2303](https://github.com/microsoft/qlib/pull/2303)).
+
 
 
 ## Relevant Awards
