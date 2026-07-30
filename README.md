@@ -51,7 +51,7 @@
 <td width="50%" valign="top">
 
 <details>
-<summary><b><a href="https://github.com/vignesh-nagarajan-vn/REFLEX">REFLEX</a></b> · machine learning framework for reflexive markets, where the data distribution depends on the model</summary>
+<summary><b><a href="https://github.com/vignesh-nagarajan-vn/REFLEX">REFLEX</a></b> · ML framework for reflexive markets, where  data distribution is model-dependent</summary>
 <br/>
 In OTC corporate bond markets, a dealer's quoting policy reshapes future trade flow and liquidity, breaking the standard assumption that the data-generating process is independent of the learner. REFLEX solves for a fixed point where policy and market are mutually stable, reproducing the <code>&epsilon; &lt; &gamma;/&beta;</code> convergence boundary from performative-prediction theory at <code>&epsilon;* &asymp; 1.3</code>.
 </details>
@@ -80,7 +80,7 @@ Statistically-gated leak detection (confidence-interval slope analysis on simula
 <td width="50%" valign="top">
 
 <details>
-<summary><b><a href="https://github.com/vignesh-nagarajan-vn/Ordinance">Ordinance</a></b> · full-stack AI backlayer for Congressional offices</summary>
+<summary><b><a href="https://github.com/vignesh-nagarajan-vn/Ordinance">Ordinance</a></b> · full-stack AI/RAG backlayer for Congressional offices</summary>
 <br/>
 Keyword-scored RAG pipeline over a curated federal corpus (EPA rules, OMB circulars, CISA directives) that returns citation-bracketed answers anchored to CFR/USC references. All inference is proxied through serverless API routes so credentials never reach the browser.
 </details>
