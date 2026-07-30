@@ -1,7 +1,7 @@
 <h1 align="center">Vignesh Nagarajan</h1>
 <p align="center">
   <b>Texas A&amp;M Engineering · Computer Science × Econometrics </b><br/>
-  <i>Machine Learning | Game Theory & Decision Science | Cognitive Modeling</i>
+  <i>Machine Learning | Game Theory & Decision Science | Financial Modeling</i>
 </p>
 <p align="center">
   <a href="https://vigneshnagarajan.me/">
@@ -17,45 +17,84 @@
 
 ---
 
-## Technical Roles
-- **Technology & Implementation Consulting Extern** — Deloitte, Tempe Office
-- **Founding Team Member** — ScienceFair.io / Qurios Ventures (Acquired)
-- **Data Analyst Intern** — STEM·E Career Development Program
-- **Software Development Intern** — Jetson ($3M Series A Raise)
-- **Data Science & Machine Learning Intern** — Drippy
+| Technical Roles | Relevant Awards |
+|---|---|
+| **Deloitte** · Technology & Implementation Extern | **Mu Alpha Theta** · National Scholar, 1 of 27 |
+| **Qurios Ventures** (acquired) · Founding Member | [**Congressional App Challenge**](https://github.com/vignesh-nagarajan-vn/Chronos) · National Winner |
+| **Jetson** ($3M Series A) · SWE Intern | **National Cyber Scholar** · SANS-GIAC, $3.4K |
+| **Drippy** · Data Science & ML Intern | **CyberStart America** · Top 2.8% of 35K+ |
+| **STEM·E** · Data Analyst Intern | **AMC / AreteLabs** · 2× National Champion |
 
 ## Selected Projects
-- **[Norn](https://github.com/vignesh-nagarajan-vn/Norn/)** — Variant-interpretation copilot that drafts ACMG/AMP evidence for a human curator: paste a genetic variant (HGVS, rsID, or locus) and Norn pulls from public genomics databases, adjudicates each criterion with a two-pass Claude reviewer, then computes the classification in code. Built at Claude Life Sciences Hackathon (1 of 500 selected from 6,000+ applicants).
-- **[SchoolPulse AI](https://github.com/vignesh-nagarajan-vn/SchoolPulse-AI/)** — Edge-AI suite with statistically-gated leak detection (confidence-interval slope analysis on simulated sensor data), an EfficientNet-based waste-sorting classifier (96% accuracy, deployed via TFLite), and a RAG-driven operations agent, all unified via a dashboard tracking a school's water, food, and energy footprint. Finalist at USAII Global AI Hackathon.
 
-- **[Ordinance](https://github.com/vignesh-nagarajan-vn/Ordinance)** — Full-stack AI backlayer for Congressional offices, running a keyword-scored RAG pipeline over a curated federal corpus (EPA rules, OMB circulars, CISA directives) that returns citation-bracketed answers anchored to CFR/USC references, with all inference proxied through serverless API routes so credentials never reach the browser.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-Currently building **REFLEX** (Reflexive Equilibrium Fixed-point Learning for endogenous financial markets).
+<details>
+<summary><b><a href="https://github.com/vignesh-nagarajan-vn/REFLEX">REFLEX</a></b> · machine learning framework for reflexive markets, where the data distribution depends on the model</summary>
+<br/>
+In OTC corporate bond markets, a dealer's quoting policy reshapes future trade flow and liquidity, breaking the standard assumption that the data-generating process is independent of the learner. REFLEX solves for a fixed point where policy and market are mutually stable, reproducing the <code>&epsilon; &lt; &gamma;/&beta;</code> convergence boundary from performative-prediction theory at <code>&epsilon;* &asymp; 1.3</code>.
+</details>
+
+</td>
+<td width="50%" valign="top">
+
+<details>
+<summary><b><a href="https://github.com/vignesh-nagarajan-vn/Norn/">Norn</a></b> · variant-interpretation copilot that drafts ACMG/AMP evidence for a human curator</summary>
+<br/>
+Paste a genetic variant (HGVS, rsID, or locus); Norn pulls from public genomics databases, adjudicates each criterion with a two-pass Claude reviewer, then computes the classification in code. Built at the Claude Life Sciences Hackathon (1 of 500 selected from 6,000+ applicants).
+</details>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<details>
+<summary><b><a href="https://github.com/vignesh-nagarajan-vn/SchoolPulse-AI/">SchoolPulse AI</a></b> · edge-AI suite tracking a school's water, food, and energy footprint</summary>
+<br/>
+Statistically-gated leak detection (confidence-interval slope analysis on simulated sensor data), an EfficientNet-based waste-sorting classifier (96% accuracy, deployed via TFLite), and a RAG-driven operations agent, unified in a single dashboard. Finalist at the USAII Global AI Hackathon.
+</details>
+
+</td>
+<td width="50%" valign="top">
+
+<details>
+<summary><b><a href="https://github.com/vignesh-nagarajan-vn/Ordinance">Ordinance</a></b> · full-stack AI backlayer for Congressional offices</summary>
+<br/>
+Keyword-scored RAG pipeline over a curated federal corpus (EPA rules, OMB circulars, CISA directives) that returns citation-bracketed answers anchored to CFR/USC references. All inference is proxied through serverless API routes so credentials never reach the browser.
+</details>
+
+</td>
+</tr>
+</table>
+
+## Open-Source Contributions
+
+<details>
+<summary><b>yfinance</b> · three upstream fixes to the most widely used Python library for Yahoo Finance market data</summary>
+
+- Fixed a 4-year-old bug where 30-min price requests raised misleading unavailability errors from an internal interval substitution ([PR #2900](https://github.com/ranaroussi/yfinance/pull/2900) for Issue #1029)
+- Repaired pandas 3 test-suite breakage from zoneinfo vs pytz timezone comparisons ([PR #2901](https://github.com/ranaroussi/yfinance/pull/2901))
+- Stopped error messages from falsely claiming tickers are possibly delisted ([PR #2903](https://github.com/ranaroussi/yfinance/pull/2903) for 5 issues incl. #2902)
+</details>
+
+<details>
+<summary><b>qlib</b> · two contributions to Microsoft's AI-quant investment platform</summary>
+
+- Fixed two long-standing FileInstrumentStorage bugs that were corrupting qlib's instrument files, adding regression tests plus a new self-contained class and 7 new functions ([PR #2302](https://github.com/microsoft/qlib/pull/2302) for Issue #1720)
+- Aligned the pre-commit black formatting hook with the version CI enforces ([PR #2303](https://github.com/microsoft/qlib/pull/2303))
+</details>
 
 ## Research Papers
 
-- **Nagarajan, V. (2026).** ***[MIRROR](https://github.com/vignesh-nagarajan-vn/MIRROR)**: Multimodal Intelligent Radiology Reasoning and Observation Reporter.* arXiv Computer Science, Computer Vision and Pattern Recognition (cs.CV) — Pending Preprint
-- **Nagarajan, V. (2026).** *CANVAS: Captioning Art with Narrative Visual-Audio AI Systems.* arXiv Computer Science, Human-Computer Interaction (cs.HC). https://doi.org/10.48550/arxiv.2606.09846
-- **Nagarajan, V. (2024);** Mittal, A. (2024). *PEBSA: Public Economic Behavior Sentiment Analysis.* International Journal of Engineering and Computer Science (IJECS). https://doi.org/10.18535/ijecs/v13i12.4950
-
-
-## Open-Source Contributions
-- **[yfinance](https://github.com/ranaroussi/yfinance)** — Three upstream fixes to the most widely used Python library for Yahoo Finance market data: (1) fixed a 4-year-old bug where 30-min price requests raised misleading unavailability errors from an internal interval substitution ([PR #2900](https://github.com/ranaroussi/yfinance/pull/2900) for Issue #1029); (2) repaired pandas 3 test-suite breakage from zoneinfo vs pytz timezone comparisons ([PR #2901](https://github.com/ranaroussi/yfinance/pull/2901)); (3) stopped error messages from falsely claiming tickers are "possibly delisted" ([PR #2903](https://github.com/ranaroussi/yfinance/pull/2903) for 5 Issues incl. #2902).
-
-- **[qlib](https://github.com/microsoft/qlib)** — Two contributions to Microsoft's AI-quant investment platform: (1) fixed two long-standing FileInstrumentStorage bugs that were corrupting qlib's instrument files, adding regression tests plus a new self-contained class and 7 new functions ([PR #2302](https://github.com/microsoft/qlib/pull/2302) for Issue #1720); (2) aligned the pre-commit black formatting hook with the version CI enforces ([PR #2303](https://github.com/microsoft/qlib/pull/2303)).
-
-
-
-## Relevant Awards
-- **Mu Alpha Theta National Scholar** — 1 of 27 Scholars, $4K Award, First-ever Arizona Winner
-- **Congressional App Challenge Winner** — Presented **[Chronos](https://github.com/vignesh-nagarajan-vn/Chronos)** at the US Capitol
-- **National Cyber Scholar** — SANS-GIAC Cybersecurity Scholarship Recipient, $3.4K Award
-- **CyberStart America Hackathon Winner** — Top ~2.8% of 35K+ Competitors
-- **AMC / AreteLabs Mini-Math Madness** — 2× 1st Place (National Champions) & 1x 2nd Place
+- **Nagarajan, V. (2026).** ***[MIRROR](https://github.com/vignesh-nagarajan-vn/MIRROR)**: Multimodal Intelligent Radiology Reasoning and Observation Reporter.* arXiv (cs.CV) · Pending Preprint
+- **Nagarajan, V. (2026).** *CANVAS: Captioning Art with Narrative Visual-Audio AI Systems.* arXiv (cs.HC), [10.48550/arxiv.2606.09846](https://doi.org/10.48550/arxiv.2606.09846) · SSRN, [10.2139/ssrn.6668618](https://dx.doi.org/10.2139/ssrn.6668618)
+- **Nagarajan, V. (2024);** Mittal, A. (2024). *PEBSA: Public Economic Behavior Sentiment Analysis.* IJECS, [10.18535/ijecs/v13i12.4950](https://doi.org/10.18535/ijecs/v13i12.4950)
 
 ---
 
 <p align="center">
-  <i>Always open to interesting problems and collaborations.</i><br/>
-  <b><a href="mailto:vigneshn26@tamu.edu">vigneshn26@tamu.edu</a></b>
+  <i>Claude <a href="https://github.com/vignesh-nagarajan-vn/claude-workflow-skills/">skills</a> I use.</i>
 </p>
