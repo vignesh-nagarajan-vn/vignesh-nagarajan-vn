@@ -15,19 +15,38 @@
   </a>
 </p>
 
----
+<table align="center">
+<tr>
+<th align="left">Technical Roles</th>
+<th align="left">Relevant Awards</th>
+</tr>
+<tr>
+<td><b>Deloitte</b> · Technology &amp; Implementation Extern</td>
+<td><b>Mu Alpha Theta</b> · National Scholar, 1 of 27</td>
+</tr>
+<tr>
+<td><b>Qurios Ventures</b> (acquired) · Founding Member</td>
+<td><b><a href="https://github.com/vignesh-nagarajan-vn/Chronos">Congressional App Challenge</a></b> · National Winner</td>
+</tr>
+<tr>
+<td><b>Jetson</b> ($3M Series A) · SWE Intern</td>
+<td><b>National Cyber Scholar</b> · SANS-GIAC, $3.4K</td>
+</tr>
+<tr>
+<td><b>Drippy</b> · Data Science &amp; ML Intern</td>
+<td><b>CyberStart America</b> · Top 2.8% of 35K+</td>
+</tr>
+<tr>
+<td><b>STEM·E</b> · Data Analyst Intern</td>
+<td><b>AMC / AreteLabs</b> · 2× National Champion</td>
+</tr>
+</table>
 
-| Technical Roles | Relevant Awards |
-|---|---|
-| **Deloitte** · Technology & Implementation Extern | **Mu Alpha Theta** · National Scholar, 1 of 27 |
-| **Qurios Ventures** (acquired) · Founding Member | [**Congressional App Challenge**](https://github.com/vignesh-nagarajan-vn/Chronos) · National Winner |
-| **Jetson** ($3M Series A) · SWE Intern | **National Cyber Scholar** · SANS-GIAC, $3.4K |
-| **Drippy** · Data Science & ML Intern | **CyberStart America** · Top 2.8% of 35K+ |
-| **STEM·E** · Data Analyst Intern | **AMC / AreteLabs** · 2× National Champion |
+---
 
 ## Selected Projects
 
-<table>
+<table align="center" width="100%">
 <tr>
 <td width="50%" valign="top">
 
@@ -41,7 +60,7 @@ In OTC corporate bond markets, a dealer's quoting policy reshapes future trade f
 <td width="50%" valign="top">
 
 <details>
-<summary><b><a href="https://github.com/vignesh-nagarajan-vn/Norn/">Norn</a></b> · variant-interpretation copilot that drafts ACMG/AMP evidence for a human curator</summary>
+<summary><b><a href="https://github.com/vignesh-nagarajan-vn/Norn">Norn</a></b> · variant-interpretation copilot that drafts ACMG/AMP evidence for a human curator</summary>
 <br/>
 Paste a genetic variant (HGVS, rsID, or locus); Norn pulls from public genomics databases, adjudicates each criterion with a two-pass Claude reviewer, then computes the classification in code. Built at the Claude Life Sciences Hackathon (1 of 500 selected from 6,000+ applicants).
 </details>
@@ -52,7 +71,7 @@ Paste a genetic variant (HGVS, rsID, or locus); Norn pulls from public genomics 
 <td width="50%" valign="top">
 
 <details>
-<summary><b><a href="https://github.com/vignesh-nagarajan-vn/SchoolPulse-AI/">SchoolPulse AI</a></b> · edge-AI suite tracking a school's water, food, and energy footprint</summary>
+<summary><b><a href="https://github.com/vignesh-nagarajan-vn/SchoolPulse-AI">SchoolPulse AI</a></b> · edge-AI suite tracking a school's water, food, and energy footprint</summary>
 <br/>
 Statistically-gated leak detection (confidence-interval slope analysis on simulated sensor data), an EfficientNet-based waste-sorting classifier (96% accuracy, deployed via TFLite), and a RAG-driven operations agent, unified in a single dashboard. Finalist at the USAII Global AI Hackathon.
 </details>
@@ -72,29 +91,41 @@ Keyword-scored RAG pipeline over a curated federal corpus (EPA rules, OMB circul
 
 ## Open-Source Contributions
 
+<table align="center" width="100%">
+<tr>
+<td valign="top">
 <details>
-<summary><b>yfinance</b> · three upstream fixes to the most widely used Python library for Yahoo Finance market data</summary>
-
-- Fixed a 4-year-old bug where 30-min price requests raised misleading unavailability errors from an internal interval substitution ([PR #2900](https://github.com/ranaroussi/yfinance/pull/2900) for Issue #1029)
-- Repaired pandas 3 test-suite breakage from zoneinfo vs pytz timezone comparisons ([PR #2901](https://github.com/ranaroussi/yfinance/pull/2901))
-- Stopped error messages from falsely claiming tickers are possibly delisted ([PR #2903](https://github.com/ranaroussi/yfinance/pull/2903) for 5 issues incl. #2902)
+<summary><b><a href="https://github.com/ranaroussi/yfinance">yfinance</a></b> · three upstream fixes to the most widely used Python library for Yahoo Finance market data</summary>
+<ul>
+<li>Fixed a 4-year-old bug where 30-min price requests raised misleading unavailability errors from an internal interval substitution (<a href="https://github.com/ranaroussi/yfinance/pull/2900">PR #2900</a> for Issue #1029)</li>
+<li>Repaired pandas 3 test-suite breakage from zoneinfo vs pytz timezone comparisons (<a href="https://github.com/ranaroussi/yfinance/pull/2901">PR #2901</a>)</li>
+<li>Stopped error messages from falsely claiming tickers are possibly delisted (<a href="https://github.com/ranaroussi/yfinance/pull/2903">PR #2903</a> for 5 issues incl. #2902)</li>
+</ul>
 </details>
-
+</td>
+</tr>
+<tr>
+<td valign="top">
 <details>
-<summary><b>qlib</b> · two contributions to Microsoft's AI-quant investment platform</summary>
-
-- Fixed two long-standing FileInstrumentStorage bugs that were corrupting qlib's instrument files, adding regression tests plus a new self-contained class and 7 new functions ([PR #2302](https://github.com/microsoft/qlib/pull/2302) for Issue #1720)
-- Aligned the pre-commit black formatting hook with the version CI enforces ([PR #2303](https://github.com/microsoft/qlib/pull/2303))
+<summary><b><a href="https://github.com/microsoft/qlib">qlib</a></b> · two contributions to Microsoft's AI-quant investment platform</summary>
+<ul>
+<li>Fixed two long-standing FileInstrumentStorage bugs that were corrupting qlib's instrument files, adding regression tests plus a new self-contained class and 7 new functions (<a href="https://github.com/microsoft/qlib/pull/2302">PR #2302</a> for Issue #1720)</li>
+<li>Aligned the pre-commit black formatting hook with the version CI enforces (<a href="https://github.com/microsoft/qlib/pull/2303">PR #2303</a>)</li>
+</ul>
 </details>
+</td>
+</tr>
+</table>
 
 ## Research Papers
 
-- **Nagarajan, V. (2026).** ***[MIRROR](https://github.com/vignesh-nagarajan-vn/MIRROR)**: Multimodal Intelligent Radiology Reasoning and Observation Reporter.* arXiv (cs.CV) · Pending Preprint
+- **Nagarajan, V. (2026).** *[MIRROR](https://github.com/vignesh-nagarajan-vn/MIRROR): Multimodal Intelligent Radiology Reasoning and Observation Reporter.* arXiv (cs.CV) · Pending Preprint
 - **Nagarajan, V. (2026).** *CANVAS: Captioning Art with Narrative Visual-Audio AI Systems.* arXiv (cs.HC), [10.48550/arxiv.2606.09846](https://doi.org/10.48550/arxiv.2606.09846) · SSRN, [10.2139/ssrn.6668618](https://dx.doi.org/10.2139/ssrn.6668618)
 - **Nagarajan, V. (2024);** Mittal, A. (2024). *PEBSA: Public Economic Behavior Sentiment Analysis.* IJECS, [10.18535/ijecs/v13i12.4950](https://doi.org/10.18535/ijecs/v13i12.4950)
 
 ---
 
 <p align="center">
-  <i>Claude <a href="https://github.com/vignesh-nagarajan-vn/claude-workflow-skills/">skills</a> I use.</i>
+  <i>Always open to interesting problems and collaborations.</i><br/>
+  <b><a href="mailto:vigneshn26@tamu.edu">vigneshn26@tamu.edu</a></b>
 </p>
