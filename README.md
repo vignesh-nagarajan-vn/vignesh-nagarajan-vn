@@ -95,7 +95,7 @@ Keyword-scored RAG pipeline over a curated federal corpus (EPA rules, OMB circul
 <tr>
 <td valign="top">
 <details>
-<summary><b><a href="https://github.com/ranaroussi/yfinance">yfinance</a></b> · three upstream fixes to the most widely used Python library for Yahoo Finance market data</summary>
+<summary><b><a href="https://github.com/ranaroussi/yfinance">yfinance</a></b> · three upstream fixes ([[v1.6.0](https://github.com/ranaroussi/yfinance/releases/tag/1.6.0)]) to the most widely used Python library for Yahoo Finance market data</summary>
 <ul>
 <li>Fixed a 4-year-old bug where 30-min price requests raised misleading unavailability errors from an internal interval substitution (<a href="https://github.com/ranaroussi/yfinance/pull/2900">PR #2900</a> for Issue #1029)</li>
 <li>Repaired pandas 3 test-suite breakage from zoneinfo vs pytz timezone comparisons (<a href="https://github.com/ranaroussi/yfinance/pull/2901">PR #2901</a>)</li>
