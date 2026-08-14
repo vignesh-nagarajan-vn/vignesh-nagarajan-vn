@@ -51,9 +51,9 @@
 <td width="50%" valign="top">
 
 <details>
-<summary><b><a href="https://github.com/vignesh-nagarajan-vn/REFLEX">REFLEX</a></b> · ML framework for reflexive markets, where  data distribution is model-dependent</summary>
+<summary><b><a href="https://github.com/vignesh-nagarajan-vn/Quarry-LDR">Quarry-LDR</a></b> · local deep research: one GPU compresses the web into cited evidence and writes the report</summary>
 <br/>
-In OTC corporate bond markets, a dealer's quoting policy reshapes future trade flow and liquidity, breaking the standard assumption that the data-generating process is independent of the learner. REFLEX solves for a fixed point where policy and market are mutually stable, reproducing the <code>&epsilon; &lt; &gamma;/&beta;</code> convergence boundary from performative-prediction theory at <code>&epsilon;* &asymp; 1.3</code>.
+An iterative plan, search, fetch, rerank, extract, synthesize, verify loop where the local GPU compresses roughly 750K tokens of scraped text into roughly 60K tokens of deduplicated evidence, then plans and writes the report itself. Every cited sentence must survive an entailment check against its sources before render. The default engine makes zero API calls and needs no API key; Claude stays available as a paid tier.
 </details>
 
 </td>
@@ -119,6 +119,7 @@ Keyword-scored RAG pipeline over a curated federal corpus (EPA rules, OMB circul
 
 ## Research Papers
 
+- **Nagarajan, V. (2026);** Ashok, S. (2026). *REFLEX: Reflexive Equilibrium Fixed-point Learning for Endogenous eXchanges.* Pending Publication
 - **Nagarajan, V. (2026);** Venkatapathy, S (2026). *MIRROR: Multimodal Intelligent Radiology Reasoning and Observation Reporter.* SSRN, [10.2139/ssrn.7245078](https://dx.doi.org/10.2139/ssrn.7245078)
 - **Nagarajan, V. (2026).** *CANVAS: Captioning Art with Narrative Visual-Audio AI Systems.* arXiv (cs.HC), [10.48550/arxiv.2606.09846](https://doi.org/10.48550/arxiv.2606.09846) · SSRN, [10.2139/ssrn.6668618](https://dx.doi.org/10.2139/ssrn.6668618)
 - **Nagarajan, V. (2024);** Mittal, A. (2024). *PEBSA: Public Economic Behavior Sentiment Analysis.* IJECS, [10.18535/ijecs/v13i12.4950](https://doi.org/10.18535/ijecs/v13i12.4950)
