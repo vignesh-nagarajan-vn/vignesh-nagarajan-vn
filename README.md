@@ -21,19 +21,19 @@
 <th align="left">Relevant Awards</th>
 </tr>
 <tr>
-<td><b>Deloitte</b> · Technology &amp; Implementation Extern</td>
+<td><b>American Airlines</b> · Machine Learning Engineer</td>
 <td><b>Mu Alpha Theta</b> · National Scholar, 1 of 27</td>
 </tr>
 <tr>
-<td><b>Qurios Ventures</b> (acquired) · Founding Member</td>
+<td><b>Deloitte</b> · Technology &amp; Implementation Extern</td>
 <td><b><a href="https://github.com/vignesh-nagarajan-vn/Chronos">Congressional App Challenge</a></b> · National Winner</td>
 </tr>
 <tr>
-<td><b>Jetson</b> ($3M Series A) · SWE Intern</td>
+<td><b>Qurios Ventures</b> (acquired) · Founding Member</td>
 <td><b>National Cyber Scholar</b> · SANS-GIAC, $3.4K</td>
 </tr>
 <tr>
-<td><b>Drippy</b> · Data Science &amp; ML Intern</td>
+<td><b>Jetson</b> ($3M Series A) · SWE Intern</td>
 <td><b>CyberStart America</b> · Top 2.8% of 35K+</td>
 </tr>
 <tr>
