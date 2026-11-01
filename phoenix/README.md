@@ -2,6 +2,47 @@
 
 A pixel-art phoenix for this profile that flies over an Arizona desert at sunset. It burns hotter as recent GitHub activity climbs, cools to ash after two quiet weeks, and bursts out of the ash on the day activity returns. The name is a nod to Phoenix, AZ and BASIS Phoenix, and Camelback Mountain sits on the horizon.
 
+## Gallery
+
+Every look the phoenix can take, in light and dark. These use the sample data in `fixtures/`, so the mountains and calendar differ from the live version.
+
+### Stages
+
+| Stage | Light | Dark |
+|---|---|---|
+| **Ash** | ![Ash, light](preview/ash-light.gif) | ![Ash, dark](preview/ash-dark.gif) |
+| **Ember** | ![Ember, light](preview/ember-light.gif) | ![Ember, dark](preview/ember-dark.gif) |
+| **Kindling** | ![Kindling, light](preview/kindling-light.gif) | ![Kindling, dark](preview/kindling-dark.gif) |
+| **Blaze** | ![Blaze, light](preview/blaze-light.gif) | ![Blaze, dark](preview/blaze-dark.gif) |
+| **Inferno** | ![Inferno, light](preview/inferno-light.gif) | ![Inferno, dark](preview/inferno-dark.gif) |
+
+### Rebirth
+
+Plays for one day when the phoenix leaves ash. With `enableRebirth` off, that day shows the normal stage instead.
+
+| Light | Dark |
+|---|---|
+| ![Rebirth, light](preview/rebirth-light.gif) | ![Rebirth, dark](preview/rebirth-dark.gif) |
+
+### Between stages
+
+Heat is continuous, so a value between two stages blends their looks.
+
+| Heat | Light | Dark |
+|---|---|---|
+| **0.18**, ember to kindling | ![Heat 0.18, light](preview/heat-18-light.gif) | ![Heat 0.18, dark](preview/heat-18-dark.gif) |
+| **0.46**, kindling to blaze | ![Heat 0.46, light](preview/heat-46-light.gif) | ![Heat 0.46, dark](preview/heat-46-dark.gif) |
+| **0.75**, blaze to inferno | ![Heat 0.75, light](preview/heat-75-light.gif) | ![Heat 0.75, dark](preview/heat-75-dark.gif) |
+
+### Display options
+
+Shown at blaze. Turning `showCaption` off also removes the tagline.
+
+| Option | Light | Dark |
+|---|---|---|
+| `showGrid` off | ![No grid, light](preview/no-grid-light.gif) | ![No grid, dark](preview/no-grid-dark.gif) |
+| `showCaption` off | ![No caption, light](preview/no-caption-light.gif) | ![No caption, dark](preview/no-caption-dark.gif) |
+
 ## The scene
 
 - **The ridge is your year.** The nearest mountain range has one peak per week of the contribution calendar, so a busy stretch is a tall range and a quiet month is a valley.
@@ -108,14 +149,14 @@ python phoenix/generate.py --user vignesh-nagarajan-vn --out dist/
 # offline: ash, ember, kindling, blaze, inferno, or rebirth
 python phoenix/generate.py --sample blaze --out dist/
 
-# render every stage in both themes, about five minutes, then open preview.html
+# re-render the gallery in preview/ after changing the art, about five minutes
 python phoenix/generate.py --preview
 
 # tests
 python -m unittest discover -s phoenix/tests
 ```
 
-Each run writes `phoenix-light.gif` and `phoenix-dark.gif`. The preview GIFs total about 20 MB, so they stay out of git.
+Each run writes `phoenix-light.gif` and `phoenix-dark.gif`.
 
 ## Automation
 
@@ -134,5 +175,6 @@ Each run writes `phoenix-light.gif` and `phoenix-dark.gif`. The preview GIFs tot
 | `generate.py` | command line entry point |
 | `phoenix.config.json` | weights, caps, toggles, dimensions, colors |
 | `fixtures/` | one year of sample data per stage, plus rebirth |
-| `preview.html` | comparison page for the GIFs from `--preview` |
+| `preview/` | the gallery GIFs, written by `--preview` |
+| `preview.html` | local page that shows the gallery side by side |
 | `tests/` | unit tests, including checks that the bird really crosses the frame |

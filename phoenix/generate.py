@@ -73,8 +73,12 @@ def build_preview(out_dir: str, config: dict) -> None:
     m = heat.compute_metrics(days, end)
     for h in BETWEEN:
         for theme in THEMES:
-            write_gif(os.path.join(out_dir, f"heat-{round(h * 100)}-{theme}.gif"), render.render(h, m, days, end, theme, False, config),
-            )
+            write_gif(os.path.join(out_dir, f"heat-{round(h * 100)}-{theme}.gif"), render.render(h, m, days, end, theme, False, config))
+    h = heat.compute_heat(m, config["heat"])
+    for name, toggle in (("no-grid", "showGrid"), ("no-caption", "showCaption")):
+        for theme in THEMES:
+            variant = {**config, toggle: False}
+            write_gif(os.path.join(out_dir, f"{name}-{theme}.gif"), render.render(h, m, days, end, theme, False, variant))
     print(f"wrote preview GIFs to {out_dir}")
 
 
