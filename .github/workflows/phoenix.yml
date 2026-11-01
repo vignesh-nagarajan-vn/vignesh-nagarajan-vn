@@ -1,0 +1,71 @@
+name: Git Phoenix
+
+on:
+  schedule:
+    - cron: "23 6 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+
+permissions:
+  contents: write
+
+concurrency:
+  group: phoenix
+  cancel-in-progress: false
+
+jobs:
+  render:
+    runs-on: ubuntu-latest
+    env:
+      COMMIT_NAME: ${{ vars.PHOENIX_COMMIT_NAME }}
+      COMMIT_EMAIL: ${{ vars.PHOENIX_COMMIT_EMAIL }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install -r phoenix/requirements.txt
+
+      - name: Test
+        run: python -m unittest discover -s phoenix/tests
+
+      - name: Check commit author
+        run: |
+          if [ -z "$COMMIT_NAME" ] || [ -z "$COMMIT_EMAIL" ]; then
+            echo "::error::Set the PHOENIX_COMMIT_NAME and PHOENIX_COMMIT_EMAIL repository variables."
+            exit 1
+          fi
+
+      # The GIFs are large, so output keeps one commit instead of a daily history.
+      - name: Prepare output branch
+        run: |
+          git worktree add --orphan -b output output-tree
+          if git ls-remote --exit-code --heads origin output; then
+            git fetch origin output:refs/remotes/origin/output
+            git show origin/output:state.json > output-tree/state.json || rm -f output-tree/state.json
+          fi
+
+      - name: Render
+        env:
+          # PHOENIX_TOKEN is optional: a token with read:user, if the default
+          # token turns out to miss private contributions.
+          GITHUB_TOKEN: ${{ secrets.PHOENIX_TOKEN || secrets.GITHUB_TOKEN }}
+          OWNER: ${{ github.repository_owner }}
+        run: python phoenix/generate.py --user "$OWNER" --out output-tree
+
+      - name: Publish
+        working-directory: output-tree
+        run: |
+          git config user.name "$COMMIT_NAME"
+          git config user.email "$COMMIT_EMAIL"
+          git add -A
+          git commit -m "Update Git Phoenix"
+          if [ "$(git rev-parse HEAD^{tree})" = "$(git rev-parse -q --verify origin/output^{tree} || true)" ]; then
+            echo "No change."
+          else
+            git push --force origin output
+          fi
