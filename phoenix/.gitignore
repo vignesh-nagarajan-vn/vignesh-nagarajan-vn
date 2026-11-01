@@ -1,0 +1,4 @@
+__pycache__/
+dist/
+preview/
+state.json

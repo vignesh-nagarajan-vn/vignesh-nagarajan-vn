@@ -1,0 +1,15 @@
+{
+  "username": "vignesh-nagarajan-vn",
+  "heat": {
+    "weights": { "recent": 0.40, "momentum": 0.20, "streak": 0.25, "consistency": 0.15 },
+    "caps": { "recent14": 300, "recent60": 1200, "streakDays": 30 },
+    "cooling": { "graceDays": 3, "fadeDays": 11 }
+  },
+  "showGrid": true,
+  "showCaption": true,
+  "enableRebirth": true,
+  "width": 880,
+  "height": 300,
+  "tagline": "PHOENIX, AZ",
+  "colors": {}
+}
