@@ -127,6 +127,15 @@ Keyword-scored RAG pipeline over a curated federal corpus (EPA rules, OMB circul
 ---
 
 <p align="center">
+  <a href="phoenix/README.md">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="phoenix/out/phoenix-dark.svg">
+      <img src="phoenix/out/phoenix-light.svg" width="480" alt="Git Phoenix, an animated phoenix that burns hotter with recent commit activity">
+    </picture>
+  </a>
+</p>
+
+<p align="center">
   <i>Always open to interesting problems and collaborations.</i><br/>
   <b><a href="mailto:vigneshn26@tamu.edu">vigneshn26@tamu.edu</a></b>
 </p>

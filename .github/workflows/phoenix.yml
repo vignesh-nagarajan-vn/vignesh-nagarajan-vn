@@ -1,0 +1,51 @@
+name: Git Phoenix
+
+on:
+  schedule:
+    - cron: "23 6 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - "phoenix/**.py"
+      - "phoenix/fixtures/**"
+      - ".github/workflows/phoenix.yml"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: phoenix
+  cancel-in-progress: false
+
+jobs:
+  render:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Test
+        run: python -m unittest discover -s phoenix/tests
+
+      - name: Render
+        env:
+          # PHOENIX_TOKEN is optional. Use a token with read:user if you want
+          # private contributions counted; the default token sees public ones.
+          GITHUB_TOKEN: ${{ secrets.PHOENIX_TOKEN || secrets.GITHUB_TOKEN }}
+        run: python phoenix/generate.py --user "${{ github.repository_owner }}"
+
+      - name: Commit if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add phoenix/out phoenix/state.json
+          if git diff --cached --quiet; then
+            echo "No change."
+          else
+            git commit -m "Update Git Phoenix"
+            git push
+          fi
