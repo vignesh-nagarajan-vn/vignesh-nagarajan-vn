@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="332" viewBox="0 0 480 332" role="img" aria-labelledby="ttl">
+<title id="ttl">Git Phoenix: ash, heat 0.06 · 0 contributions in 14 days · 40 in 60 · 25% active days</title>
+<style>text{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif}.t{font-size:15px;font-weight:700;letter-spacing:2px;fill:#e6edf3}.d{font-size:11.5px;fill:#9198a1}@keyframes glow{0%,100%{opacity:0.07}50%{opacity:0.10}}.glow{animation:glow 3.4s ease-in-out infinite}.wing{transform-origin:226.0px 120.0px;transform:rotate(-38deg)}@keyframes rise{0%{transform:translateY(0);opacity:0}12%{opacity:1}100%{transform:translateY(-190px);opacity:0}}.em{animation:rise linear infinite}@keyframes smolder{0%,100%{opacity:.25}50%{opacity:.9}}.smolder{animation:smolder 2.8s ease-in-out infinite}@media (prefers-reduced-motion:reduce){*{animation:none!important}}</style>
+<defs>
+<radialGradient id="g-glow" cx="50%" cy="50%" r="50%">
+  <stop offset="0" stop-color="#d4d4d8" stop-opacity=".9"/>
+  <stop offset=".45" stop-color="#a1a1aa" stop-opacity=".35"/>
+  <stop offset="1" stop-color="#52525b" stop-opacity="0"/>
+</radialGradient>
+<radialGradient id="g-dot" cx="50%" cy="50%" r="50%">
+  <stop offset="0" stop-color="#f4f4f5"/>
+  <stop offset=".5" stop-color="#d4d4d8" stop-opacity=".8"/>
+  <stop offset="1" stop-color="#a1a1aa" stop-opacity="0"/>
+</radialGradient>
+<linearGradient id="g-body" x1="0" y1="0" x2="0" y2="1">
+  <stop offset="0" stop-color="#d4d4d8"/>
+  <stop offset=".55" stop-color="#a1a1aa"/>
+  <stop offset="1" stop-color="#52525b"/>
+</linearGradient>
+<linearGradient id="g-wb" gradientUnits="userSpaceOnUse" x1="226.0" y1="120.0" x2="70" y2="60">
+  <stop offset="0" stop-color="#52525b"/>
+  <stop offset=".6" stop-color="#a1a1aa"/>
+  <stop offset="1" stop-color="#d4d4d8"/>
+</linearGradient>
+<linearGradient id="g-wf" gradientUnits="userSpaceOnUse" x1="226.0" y1="120.0" x2="130" y2="100">
+  <stop offset="0" stop-color="#a1a1aa"/>
+  <stop offset="1" stop-color="#d4d4d8"/>
+</linearGradient>
+<linearGradient id="g-tail" gradientUnits="userSpaceOnUse" x1="240" y1="180" x2="240" y2="280">
+  <stop offset="0" stop-color="#a1a1aa"/>
+  <stop offset=".7" stop-color="#d4d4d8"/>
+  <stop offset="1" stop-color="#f4f4f5"/>
+</linearGradient>
+<linearGradient id="g-fo" x1="0" y1="1" x2="0" y2="0">
+  <stop offset="0" stop-color="#d4d4d8"/>
+  <stop offset=".5" stop-color="#a1a1aa"/>
+  <stop offset="1" stop-color="#52525b" stop-opacity=".2"/>
+</linearGradient>
+<linearGradient id="g-fi" x1="0" y1="1" x2="0" y2="0">
+  <stop offset="0" stop-color="#f4f4f5"/>
+  <stop offset="1" stop-color="#d4d4d8" stop-opacity=".3"/>
+</linearGradient></defs>
+<circle class="glow" cx="240" cy="150" r="150" fill="url(#g-glow)" opacity="0.10"/>
+<ellipse cx="240" cy="250" rx="70" ry="10" fill="#a1a1aa" opacity=".55"/>
+<ellipse cx="240" cy="246" rx="44" ry="7" fill="#d4d4d8" opacity=".45"/>
+<g class=""><g class="bob">
+<g class="tail"><path d="M240.0 180.0Q181.5 201.6 166.0 262.0Q200.8 219.0 240.0 180.0Z" fill="url(#g-tail)"/><path d="M240.0 180.0Q201.4 222.6 200.0 280.0Q223.7 231.5 240.0 180.0Z" fill="url(#g-tail)"/><path d="M240.0 180.0Q228.0 234.0 240.0 288.0Q252.0 234.0 240.0 180.0Z" fill="url(#g-tail)"/><path d="M240.0 180.0Q256.3 231.5 280.0 280.0Q278.6 222.6 240.0 180.0Z" fill="url(#g-tail)"/><path d="M240.0 180.0Q279.2 219.0 314.0 262.0Q298.5 201.6 240.0 180.0Z" fill="url(#g-tail)"/><circle cx="174" cy="258" r="4" fill="#f4f4f5" opacity="0.35"/><circle cx="205" cy="274" r="4" fill="#f4f4f5" opacity="0.35"/><circle cx="240" cy="281" r="4" fill="#f4f4f5" opacity="0.35"/><circle cx="275" cy="274" r="4" fill="#f4f4f5" opacity="0.35"/><circle cx="306" cy="258" r="4" fill="#f4f4f5" opacity="0.35"/></g>
+<g><g class="wing"><path d="M226.0 120.0Q157.8 68.5 78.0 38.0Q141.3 98.2 226.0 120.0Z" fill="url(#g-wb)"/><path d="M226.0 120.0Q147.2 86.4 62.0 78.0Q138.8 119.3 226.0 120.0Z" fill="url(#g-wb)"/><path d="M226.0 120.0Q148.4 104.0 70.0 116.0Q147.5 136.0 226.0 120.0Z" fill="url(#g-wb)"/><path d="M226.0 120.0Q155.9 119.3 92.0 148.0Q162.1 148.7 226.0 120.0Z" fill="url(#g-wb)"/><path d="M226.0 120.0Q168.6 130.4 124.0 168.0Q179.7 154.0 226.0 120.0Z" fill="url(#g-wb)"/><path d="M230.0 122.0Q187.2 86.3 134.0 70.0Q173.9 110.9 230.0 122.0Z" fill="url(#g-wf)"/><path d="M230.0 122.0Q179.0 101.2 124.0 102.0Q174.2 126.7 230.0 122.0Z" fill="url(#g-wf)"/><path d="M230.0 122.0Q181.7 115.1 136.0 132.0Q184.3 138.9 230.0 122.0Z" fill="url(#g-wf)"/><path d="M230.0 122.0Q190.5 124.9 160.0 150.0Q198.0 143.4 230.0 122.0Z" fill="url(#g-wf)"/></g></g>
+<g transform="translate(480 0) scale(-1 1)"><g class="wing"><path d="M226.0 120.0Q157.8 68.5 78.0 38.0Q141.3 98.2 226.0 120.0Z" fill="url(#g-wb)"/><path d="M226.0 120.0Q147.2 86.4 62.0 78.0Q138.8 119.3 226.0 120.0Z" fill="url(#g-wb)"/><path d="M226.0 120.0Q148.4 104.0 70.0 116.0Q147.5 136.0 226.0 120.0Z" fill="url(#g-wb)"/><path d="M226.0 120.0Q155.9 119.3 92.0 148.0Q162.1 148.7 226.0 120.0Z" fill="url(#g-wb)"/><path d="M226.0 120.0Q168.6 130.4 124.0 168.0Q179.7 154.0 226.0 120.0Z" fill="url(#g-wb)"/><path d="M230.0 122.0Q187.2 86.3 134.0 70.0Q173.9 110.9 230.0 122.0Z" fill="url(#g-wf)"/><path d="M230.0 122.0Q179.0 101.2 124.0 102.0Q174.2 126.7 230.0 122.0Z" fill="url(#g-wf)"/><path d="M230.0 122.0Q181.7 115.1 136.0 132.0Q184.3 138.9 230.0 122.0Z" fill="url(#g-wf)"/><path d="M230.0 122.0Q190.5 124.9 160.0 150.0Q198.0 143.4 230.0 122.0Z" fill="url(#g-wf)"/></g></g>
+<path d="M240 70C258 70 262 92 255 110C270 130 266 166 240 188C214 166 210 130 225 110C218 92 222 70 240 70Z" fill="url(#g-body)"/>
+<path d="M240 118C250 130 250 160 240 176C230 160 230 130 240 118Z" fill="#f4f4f5" opacity=".35"/>
+<g class="crest"><path d="M240.0 70.0Q237.1 50.6 222.0 38.0Q230.1 54.5 240.0 70.0Z" fill="url(#g-body)"/><path d="M240.0 70.0Q244.0 50.0 240.0 30.0Q236.0 50.0 240.0 70.0Z" fill="url(#g-body)"/><path d="M240.0 70.0Q249.9 54.5 258.0 38.0Q242.9 50.6 240.0 70.0Z" fill="url(#g-body)"/><circle cx="222" cy="38" r="2.6" fill="#f4f4f5"/><circle cx="240" cy="30" r="2.6" fill="#f4f4f5"/><circle cx="258" cy="38" r="2.6" fill="#f4f4f5"/></g>
+<circle cx="233.5" cy="80" r="2.4" fill="#52525b"/><circle cx="246.5" cy="80" r="2.4" fill="#52525b"/>
+<path d="M236 87L244 87L240 98Z" fill="#52525b"/>
+<circle class="smolder" cx="240" cy="146" r="14" fill="url(#g-dot)"/>
+</g></g>
+<circle class="em" style="animation-duration:8.07s;animation-delay:-2.34s" cx="145.9" cy="236" r="1.5" fill="#d4d4d8" opacity="0"/>
+<circle class="em" style="animation-duration:5.08s;animation-delay:-1.97s" cx="157.2" cy="236" r="1.7" fill="#d4d4d8" opacity="0"/>
+<circle class="em" style="animation-duration:8.55s;animation-delay:-3.66s" cx="254.9" cy="236" r="2.9" fill="#f4f4f5" opacity="0"/>
+<text class="t" x="240" y="308" text-anchor="middle">ASH</text>
+<text class="d" x="240" y="325" text-anchor="middle">heat 0.06 · 0 contributions in 14 days · 40 in 60 · 25% active days</text>
+</svg>

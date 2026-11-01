@@ -1,0 +1,79 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="332" viewBox="0 0 480 332" role="img" aria-labelledby="ttl">
+<title id="ttl">Git Phoenix: reborn · flame, heat 0.44 · 140 contributions in 14 days · 500 in 60 · 40% active days</title>
+<style>text{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif}.t{font-size:15px;font-weight:700;letter-spacing:2px;fill:#1f2328}.d{font-size:11.5px;fill:#59636e}@keyframes glow{0%,100%{opacity:0.29}50%{opacity:0.42}}.glow{animation:glow 3.4s ease-in-out infinite}@keyframes flap{0%,100%{transform:rotate(-12deg)}50%{transform:rotate(14deg)}}.wing{transform-origin:226.0px 120.0px;animation:flap 2.2s ease-in-out infinite}@keyframes bob{0%,100%{transform:translateY(2px)}50%{transform:translateY(-6px)}}.bob{animation:bob 2.2s ease-in-out infinite}@keyframes sway{0%,100%{transform:rotate(-3deg)}50%{transform:rotate(3deg)}}.tail{transform-origin:240.0px 180.0px;animation:sway 4.4s ease-in-out infinite}.crest{transform-origin:240px 66px;animation:sway 2.6s ease-in-out infinite}@keyframes flick{0%,100%{transform:scale(1,1)}33%{transform:scale(.92,1.14)}66%{transform:scale(1.06,.9)}}.fl{transform-box:fill-box;transform-origin:50% 100%;animation:flick .9s ease-in-out infinite}@keyframes rise{0%{transform:translateY(0);opacity:0}12%{opacity:1}100%{transform:translateY(-190px);opacity:0}}.em{animation:rise linear infinite}@keyframes smolder{0%,100%{opacity:.25}50%{opacity:.9}}.smolder{animation:smolder 2.8s ease-in-out infinite}@keyframes reborn{0%{transform:translateY(80px) scale(.25);opacity:0}35%{opacity:1}100%{transform:none;opacity:1}}.rb{transform-origin:240px 230px;animation:reborn 2.4s cubic-bezier(.2,.8,.2,1) .3s both}@keyframes burst{0%{transform:scale(.1);opacity:1}100%{transform:scale(7);opacity:0}}.burst{transform-box:fill-box;transform-origin:50% 50%;animation:burst 1.6s ease-out .2s both}@keyframes flash{0%{opacity:0}20%{opacity:1}100%{opacity:0}}.flash{animation:flash 2.2s ease-out both}@media (prefers-reduced-motion:reduce){*{animation:none!important}}</style>
+<defs>
+<radialGradient id="g-glow" cx="50%" cy="50%" r="50%">
+  <stop offset="0" stop-color="#f97316" stop-opacity=".9"/>
+  <stop offset=".45" stop-color="#c2410c" stop-opacity=".35"/>
+  <stop offset="1" stop-color="#7c2d12" stop-opacity="0"/>
+</radialGradient>
+<radialGradient id="g-dot" cx="50%" cy="50%" r="50%">
+  <stop offset="0" stop-color="#fbbf24"/>
+  <stop offset=".5" stop-color="#f97316" stop-opacity=".8"/>
+  <stop offset="1" stop-color="#c2410c" stop-opacity="0"/>
+</radialGradient>
+<linearGradient id="g-body" x1="0" y1="0" x2="0" y2="1">
+  <stop offset="0" stop-color="#f97316"/>
+  <stop offset=".55" stop-color="#c2410c"/>
+  <stop offset="1" stop-color="#7c2d12"/>
+</linearGradient>
+<linearGradient id="g-wb" gradientUnits="userSpaceOnUse" x1="226.0" y1="120.0" x2="70" y2="60">
+  <stop offset="0" stop-color="#7c2d12"/>
+  <stop offset=".6" stop-color="#c2410c"/>
+  <stop offset="1" stop-color="#f97316"/>
+</linearGradient>
+<linearGradient id="g-wf" gradientUnits="userSpaceOnUse" x1="226.0" y1="120.0" x2="130" y2="100">
+  <stop offset="0" stop-color="#c2410c"/>
+  <stop offset="1" stop-color="#f97316"/>
+</linearGradient>
+<linearGradient id="g-tail" gradientUnits="userSpaceOnUse" x1="240" y1="180" x2="240" y2="280">
+  <stop offset="0" stop-color="#c2410c"/>
+  <stop offset=".7" stop-color="#f97316"/>
+  <stop offset="1" stop-color="#fbbf24"/>
+</linearGradient>
+<linearGradient id="g-fo" x1="0" y1="1" x2="0" y2="0">
+  <stop offset="0" stop-color="#f97316"/>
+  <stop offset=".5" stop-color="#c2410c"/>
+  <stop offset="1" stop-color="#7c2d12" stop-opacity=".2"/>
+</linearGradient>
+<linearGradient id="g-fi" x1="0" y1="1" x2="0" y2="0">
+  <stop offset="0" stop-color="#fbbf24"/>
+  <stop offset="1" stop-color="#f97316" stop-opacity=".3"/>
+</linearGradient></defs>
+<circle class="glow" cx="240" cy="150" r="150" fill="url(#g-glow)" opacity="0.42"/>
+<circle class="flash" cx="240" cy="200" r="120" fill="url(#g-dot)" opacity="0"/>
+<circle class="burst" cx="240" cy="232" r="12" fill="none" stroke="#f97316" stroke-width="3" vector-effect="non-scaling-stroke"/>
+<ellipse cx="240" cy="250" rx="70" ry="10" fill="#c2410c" opacity=".55"/>
+<ellipse cx="240" cy="246" rx="44" ry="7" fill="#f97316" opacity=".45"/>
+<g class="rb"><g class="bob">
+<g class="tail"><path d="M240.0 180.0Q181.5 201.6 166.0 262.0Q200.8 219.0 240.0 180.0Z" fill="url(#g-tail)"/><path d="M240.0 180.0Q201.4 222.6 200.0 280.0Q223.7 231.5 240.0 180.0Z" fill="url(#g-tail)"/><path d="M240.0 180.0Q228.0 234.0 240.0 288.0Q252.0 234.0 240.0 180.0Z" fill="url(#g-tail)"/><path d="M240.0 180.0Q256.3 231.5 280.0 280.0Q278.6 222.6 240.0 180.0Z" fill="url(#g-tail)"/><path d="M240.0 180.0Q279.2 219.0 314.0 262.0Q298.5 201.6 240.0 180.0Z" fill="url(#g-tail)"/><circle cx="174" cy="258" r="4" fill="#fbbf24" opacity="0.9"/><circle cx="205" cy="274" r="4" fill="#fbbf24" opacity="0.9"/><circle cx="240" cy="281" r="4" fill="#fbbf24" opacity="0.9"/><circle cx="275" cy="274" r="4" fill="#fbbf24" opacity="0.9"/><circle cx="306" cy="258" r="4" fill="#fbbf24" opacity="0.9"/></g>
+<g><g class="wing"><path d="M226.0 120.0Q157.8 68.5 78.0 38.0Q141.3 98.2 226.0 120.0Z" fill="url(#g-wb)"/><path d="M226.0 120.0Q147.2 86.4 62.0 78.0Q138.8 119.3 226.0 120.0Z" fill="url(#g-wb)"/><path d="M226.0 120.0Q148.4 104.0 70.0 116.0Q147.5 136.0 226.0 120.0Z" fill="url(#g-wb)"/><path d="M226.0 120.0Q155.9 119.3 92.0 148.0Q162.1 148.7 226.0 120.0Z" fill="url(#g-wb)"/><path d="M226.0 120.0Q168.6 130.4 124.0 168.0Q179.7 154.0 226.0 120.0Z" fill="url(#g-wb)"/><path d="M230.0 122.0Q187.2 86.3 134.0 70.0Q173.9 110.9 230.0 122.0Z" fill="url(#g-wf)"/><path d="M230.0 122.0Q179.0 101.2 124.0 102.0Q174.2 126.7 230.0 122.0Z" fill="url(#g-wf)"/><path d="M230.0 122.0Q181.7 115.1 136.0 132.0Q184.3 138.9 230.0 122.0Z" fill="url(#g-wf)"/><path d="M230.0 122.0Q190.5 124.9 160.0 150.0Q198.0 143.4 230.0 122.0Z" fill="url(#g-wf)"/></g></g>
+<g transform="translate(480 0) scale(-1 1)"><g class="wing"><path d="M226.0 120.0Q157.8 68.5 78.0 38.0Q141.3 98.2 226.0 120.0Z" fill="url(#g-wb)"/><path d="M226.0 120.0Q147.2 86.4 62.0 78.0Q138.8 119.3 226.0 120.0Z" fill="url(#g-wb)"/><path d="M226.0 120.0Q148.4 104.0 70.0 116.0Q147.5 136.0 226.0 120.0Z" fill="url(#g-wb)"/><path d="M226.0 120.0Q155.9 119.3 92.0 148.0Q162.1 148.7 226.0 120.0Z" fill="url(#g-wb)"/><path d="M226.0 120.0Q168.6 130.4 124.0 168.0Q179.7 154.0 226.0 120.0Z" fill="url(#g-wb)"/><path d="M230.0 122.0Q187.2 86.3 134.0 70.0Q173.9 110.9 230.0 122.0Z" fill="url(#g-wf)"/><path d="M230.0 122.0Q179.0 101.2 124.0 102.0Q174.2 126.7 230.0 122.0Z" fill="url(#g-wf)"/><path d="M230.0 122.0Q181.7 115.1 136.0 132.0Q184.3 138.9 230.0 122.0Z" fill="url(#g-wf)"/><path d="M230.0 122.0Q190.5 124.9 160.0 150.0Q198.0 143.4 230.0 122.0Z" fill="url(#g-wf)"/></g></g>
+<path d="M240 70C258 70 262 92 255 110C270 130 266 166 240 188C214 166 210 130 225 110C218 92 222 70 240 70Z" fill="url(#g-body)"/>
+<path d="M240 118C250 130 250 160 240 176C230 160 230 130 240 118Z" fill="#fbbf24" opacity=".35"/>
+<g class="crest"><path d="M240.0 70.0Q237.1 50.6 222.0 38.0Q230.1 54.5 240.0 70.0Z" fill="url(#g-body)"/><path d="M240.0 70.0Q244.0 50.0 240.0 30.0Q236.0 50.0 240.0 70.0Z" fill="url(#g-body)"/><path d="M240.0 70.0Q249.9 54.5 258.0 38.0Q242.9 50.6 240.0 70.0Z" fill="url(#g-body)"/><circle cx="222" cy="38" r="2.6" fill="#fbbf24"/><circle cx="240" cy="30" r="2.6" fill="#fbbf24"/><circle cx="258" cy="38" r="2.6" fill="#fbbf24"/></g>
+<circle cx="233.5" cy="80" r="2.4" fill="#fbbf24"/><circle cx="246.5" cy="80" r="2.4" fill="#fbbf24"/>
+<path d="M236 87L244 87L240 98Z" fill="#7c2d12"/>
+</g></g>
+<path class="fl" style="animation-delay:-0.74s" d="M181.0 240.0C181.0 227.4 192.1 222.6 194.0 212.0C195.9 222.6 207.0 227.4 207.0 240.0Q194.0 247.8 181.0 240.0Z" fill="url(#g-fo)"/>
+<path class="fl" style="animation-delay:-1.04s" d="M186.8 240.0C186.8 233.1 192.9 230.5 194.0 224.6C195.1 230.5 201.2 233.1 201.2 240.0Q194.0 244.3 186.8 240.0Z" fill="url(#g-fi)"/>
+<path class="fl" style="animation-delay:-0.46s" d="M201.0 240.0C201.0 221.7 213.8 214.8 216.0 199.4C218.2 214.8 231.0 221.7 231.0 240.0Q216.0 249.0 201.0 240.0Z" fill="url(#g-fo)"/>
+<path class="fl" style="animation-delay:-0.76s" d="M207.8 240.0C207.8 230.0 214.8 226.2 216.0 217.7C217.2 226.2 224.2 230.0 224.2 240.0Q216.0 244.9 207.8 240.0Z" fill="url(#g-fi)"/>
+<path class="fl" style="animation-delay:-0.25s" d="M223.0 240.0C223.0 217.9 237.4 209.6 240.0 191.0C242.6 209.6 257.0 217.9 257.0 240.0Q240.0 250.2 223.0 240.0Z" fill="url(#g-fo)"/>
+<path class="fl" style="animation-delay:-0.55s" d="M230.7 240.0C230.7 227.9 238.6 223.3 240.0 213.1C241.4 223.3 249.3 227.9 249.3 240.0Q240.0 245.6 230.7 240.0Z" fill="url(#g-fi)"/>
+<path class="fl" style="animation-delay:-0.37s" d="M249.0 240.0C249.0 221.7 261.8 214.8 264.0 199.4C266.2 214.8 279.0 221.7 279.0 240.0Q264.0 249.0 249.0 240.0Z" fill="url(#g-fo)"/>
+<path class="fl" style="animation-delay:-0.67s" d="M255.8 240.0C255.8 230.0 262.8 226.2 264.0 217.7C265.2 226.2 272.2 230.0 272.2 240.0Q264.0 244.9 255.8 240.0Z" fill="url(#g-fi)"/>
+<path class="fl" style="animation-delay:-0.62s" d="M273.0 240.0C273.0 227.4 284.1 222.6 286.0 212.0C287.9 222.6 299.0 227.4 299.0 240.0Q286.0 247.8 273.0 240.0Z" fill="url(#g-fo)"/>
+<path class="fl" style="animation-delay:-0.92s" d="M278.9 240.0C278.9 233.1 284.9 230.5 286.0 224.6C287.1 230.5 293.1 233.1 293.1 240.0Q286.0 244.3 278.9 240.0Z" fill="url(#g-fi)"/>
+<circle class="em" style="animation-duration:5.19s;animation-delay:-1.50s" cx="145.9" cy="236" r="1.5" fill="#f97316" opacity="0"/>
+<circle class="em" style="animation-duration:3.27s;animation-delay:-1.27s" cx="157.2" cy="236" r="1.7" fill="#f97316" opacity="0"/>
+<circle class="em" style="animation-duration:5.49s;animation-delay:-2.35s" cx="254.9" cy="236" r="2.9" fill="#fbbf24" opacity="0"/>
+<circle class="em" style="animation-duration:5.73s;animation-delay:-5.08s" cx="297.8" cy="236" r="2.3" fill="#f97316" opacity="0"/>
+<circle class="em" style="animation-duration:5.79s;animation-delay:-3.98s" cx="204.0" cy="236" r="1.5" fill="#f97316" opacity="0"/>
+<circle class="em" style="animation-duration:4.61s;animation-delay:-0.42s" cx="226.3" cy="236" r="2.7" fill="#fbbf24" opacity="0"/>
+<circle class="em" style="animation-duration:4.69s;animation-delay:-3.07s" cx="272.9" cy="236" r="3.1" fill="#f97316" opacity="0"/>
+<circle class="em" style="animation-duration:5.65s;animation-delay:-0.31s" cx="236.6" cy="236" r="2.4" fill="#f97316" opacity="0"/>
+<circle class="em" style="animation-duration:5.51s;animation-delay:-1.49s" cx="225.5" cy="236" r="2.5" fill="#fbbf24" opacity="0"/>
+<text class="t" x="240" y="308" text-anchor="middle">REBORN · FLAME</text>
+<text class="d" x="240" y="325" text-anchor="middle">heat 0.44 · 140 contributions in 14 days · 500 in 60 · 40% active days</text>
+</svg>
