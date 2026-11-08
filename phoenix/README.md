@@ -73,7 +73,7 @@ The workflow prints the metrics and heat in its log. Compare them with your prof
 
 ## Adding it to the profile
 
-The phoenix isn't on the profile yet. To show it, paste this into the root `README.md`, in place of the `---` above Selected Projects:
+The root `README.md` shows the phoenix under the name. GitHub swaps between the two GIFs by theme. The snippet it uses:
 
 ```html
 <p align="center">
