@@ -1,14 +1,7 @@
 <h1 align="center">Vignesh Nagarajan</h1>
 <p align="center">
-  <b>Texas A&amp;M · Computer Science × Econometrics</b><br/>
-  <i>Machine Learning · Game Theory &amp; Decision Science · Financial Modeling</i>
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/vignesh-nagarajan-vn/vignesh-nagarajan-vn/output/phoenix-light.gif#gh-light-mode-only" alt="Git Phoenix, a pixel-art phoenix flying over the Arizona desert, burning hotter with recent GitHub activity" />
-  <img src="https://raw.githubusercontent.com/vignesh-nagarajan-vn/vignesh-nagarajan-vn/output/phoenix-dark.gif#gh-dark-mode-only" alt="Git Phoenix, a pixel-art phoenix flying over the Arizona desert, burning hotter with recent GitHub activity" />
-  <br/>
-  <sub>The phoenix burns hotter with my recent GitHub activity and cools to ash when I go quiet. <a href="phoenix/">How it works</a></sub>
+  <b>Texas A&amp;M Brown Scholar (Full-Ride) · Computer Science × Econometrics</b><br/>
+  <i>ML Systems · Game Theory · Optimization · Financial Modeling</i>
 </p>
 
 <p align="center">
@@ -23,19 +16,26 @@
   </a>
 </p>
 
-**Experience** · Previously at American Airlines, Deloitte, Jetson, Qurios Ventures (acq)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/vignesh-nagarajan-vn/vignesh-nagarajan-vn/output/phoenix-light.gif#gh-light-mode-only" alt="Git Phoenix, a pixel-art phoenix flying over the Arizona desert, burning hotter with recent GitHub activity" />
+  <img src="https://raw.githubusercontent.com/vignesh-nagarajan-vn/vignesh-nagarajan-vn/output/phoenix-dark.gif#gh-dark-mode-only" alt="Git Phoenix, a pixel-art phoenix flying over the Arizona desert, burning hotter with recent GitHub activity" />
+  <br/>
+  <sub>The phoenix burns hotter with my recent GitHub activity and cools to ash when I go quiet. <a href="phoenix/">How it works</a></sub>
+</p>
 
-**Recognition** · 5× Hackathon Winner · [Congressional App Challenge](https://github.com/vignesh-nagarajan-vn/Chronos) Winner · Mu Alpha Theta National Scholar · SANS-GIAC National Cyber Scholar · 2× AMC / AreteLabs National Champion
+**Experience** · Currently at American Airlines (MLE). Previously at Deloitte (Tech Consulting), Jetson (SWE), Qurios Ventures (FTM)
 
-### Open source
+**Recognition** · 5× Hackathon Winner · [Congressional App Challenge](https://github.com/vignesh-nagarajan-vn/Chronos) Winner · Mu Alpha Theta National Scholar · SANS-GIAC National Cyber Scholar · 2× AMC/AreteLabs Math National Champion
 
-- Yahoo [yfinance](https://github.com/ranaroussi/yfinance): three fixes shipped in [v1.6.0](https://github.com/ranaroussi/yfinance/releases/tag/1.6.0) ([#2900](https://github.com/ranaroussi/yfinance/pull/2900), [#2901](https://github.com/ranaroussi/yfinance/pull/2901), [#2903](https://github.com/ranaroussi/yfinance/pull/2903))
-- Microsoft [qlib](https://github.com/microsoft/qlib): fixed instrument-file corruption in FileInstrumentStorage ([#2302](https://github.com/microsoft/qlib/pull/2302)) and aligned the black pre-commit hook with CI ([#2303](https://github.com/microsoft/qlib/pull/2303))
+**Open source**
 
-### Papers
+- **Yahoo [yfinance](https://github.com/ranaroussi/yfinance)**: three fixes shipped in [v1.6.0](https://github.com/ranaroussi/yfinance/releases/tag/1.6.0) ([#2900](https://github.com/ranaroussi/yfinance/pull/2900), [#2901](https://github.com/ranaroussi/yfinance/pull/2901), [#2903](https://github.com/ranaroussi/yfinance/pull/2903))
+- **Microsoft [qlib](https://github.com/microsoft/qlib)**: fixed instrument-file corruption ([#2302](https://github.com/microsoft/qlib/pull/2302)) and aligned the black pre-commit hook with CI ([#2303](https://github.com/microsoft/qlib/pull/2303))
+
+**Papers**
 
 - [*REFLEX: Reflexive Equilibrium Fixed-point Learning for Endogenous eXchanges*](https://doi.org/10.48550/arXiv.2608.16155), ACM ICAIF 2026
-- *Herd Immunity and Learning Externalities in Markets of Shared Foundation Models*, IEEE BigData 2026 (ABCSS)
+- *Herd Immunity and Learning Externalities in Markets of Shared Foundation Models*, IEEE BigData 2026 ABCSS
 - [*CANVAS: Captioning Art with Narrative Visual-Audio AI Systems*](https://doi.org/10.48550/arxiv.2606.09846), Springer Nature UAIS 2026
 - [*MIRROR: Multimodal Intelligent Radiology Reasoning and Observation Reporter*](https://doi.org/10.48550/arXiv.2608.16709), arXiv 2026
 - [*PEBSA: Public Economic Behavior Sentiment Analysis*](https://doi.org/10.18535/ijecs/v13i12.4950), IJECS 2024
