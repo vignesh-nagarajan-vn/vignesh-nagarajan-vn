@@ -156,7 +156,7 @@ class GifTests(unittest.TestCase):
             self.assertEqual(im.size, (CONFIG["width"], CONFIG["height"]))
             self.assertGreater(im.n_frames, 100)
             self.assertEqual(im.info.get("loop"), 0)
-            self.assertEqual(im.info.get("duration"), 60)
+            self.assertEqual(im.info.get("duration"), round(render.FRAME_SECONDS * 1000))
             # Decode a late frame: the encoder's delta frames must rebuild correctly.
             im.seek(im.n_frames // 2)
             decoded = np.asarray(im.convert("RGB"), dtype=float) / 255

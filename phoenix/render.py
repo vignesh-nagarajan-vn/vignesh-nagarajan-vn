@@ -19,7 +19,7 @@ import scene as scene_mod
 from heat import Metrics, stage_for
 from pixelart import apply_ramp, bayer_map, bird_ramps, lerp, ramp, rgb, stamp, text_mask
 
-FRAME_SECONDS = 0.06
+FRAME_SECONDS = 0.04
 SCALE = 2
 RISE_SECONDS = 4.0
 ASH_SECONDS = 6.0
@@ -333,9 +333,9 @@ def _draw_sprite(frame, pos_fn, angle, local, phase, look, h, ramps, dither) -> 
     frame[edge] = ramps[0][0]
     ys, xs = np.nonzero(mask)
     v = value[ys, xs]
-    d = dither[ys, xs]
     p = np.clip(part[ys, xs], 0, 3)
-    index = np.clip((v * 7 + d).astype(int), 0, 7)
+    # Flat bands, no dither: a screen-fixed pattern would crawl across a moving sprite.
+    index = np.clip(np.round(v * 7).astype(int), 0, 7)
     frame[ys, xs] = ramps[p, index]
 
 

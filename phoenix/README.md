@@ -52,7 +52,9 @@ Shown at blaze. Turning `showCaption` off also removes the tagline.
 
 ## How the phoenix moves
 
-The wings are posed in 3D and projected, so a flap reads as flight: spread on the upstroke, swept under the body on the downstroke, with the tips lagging behind the shoulders. The tail plumes follow the path the bird actually flew, so they whip through turns. At the top of the heat range it flies a full loop.
+The bird is a bold silhouette in fire and gold: one body shape, each wing one swept shape with five primary tips, three tail ribbons and a short crest. It's shaded in flat bands with no dither, so nothing crawls across it as it moves.
+
+The wings are posed in 3D and projected, so a flap reads as flight: spread on the upstroke, swept under the body on the downstroke, with the tips lagging behind the shoulders. The body lifts slightly on each downstroke. The tail ribbons follow the path the bird actually flew, so they whip through turns. At the top of the heat range it flies a full loop. The GIF runs at 25 fps.
 
 Every moving part is a function of time wrapped to the loop length, so the last frame runs straight into the first.
 
@@ -105,8 +107,8 @@ Counts come from the GitHub contribution calendar, so they include PRs, issues, 
 |---|---|---|
 | Ash | 0 | no flight, a cracked egg in an ash pile, a pulsing ember, slow smoke, a cold moon |
 | Ember | under 0.20 | thin and dark red, slow heavy wingbeats, low flight, a few sparks |
-| Kindling | 0.20 to 0.45 | deep orange with plum and turquoise plumage, a modest flame tail |
-| Blaze | 0.45 to 0.75 | orange-gold with magenta and turquoise, a thick fire trail, a livelier path |
+| Kindling | 0.20 to 0.45 | deep orange, a modest flame tail |
+| Blaze | 0.45 to 0.75 | orange-gold, a thick fire trail, a livelier path |
 | Inferno | 0.75 and up | near-white core, fast wingbeats, a full loop, embers raining across the scene |
 
 Stages are labels and color anchors. Color, size, tail length, wingbeat speed, fire, and flight height all change continuously with heat.
