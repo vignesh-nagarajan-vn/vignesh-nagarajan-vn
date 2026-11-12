@@ -16,13 +16,6 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/vignesh-nagarajan-vn/vignesh-nagarajan-vn/output/phoenix-light.gif#gh-light-mode-only" alt="Git Phoenix, a pixel-art phoenix flying over the Arizona desert, burning hotter with recent GitHub activity" />
-  <img src="https://raw.githubusercontent.com/vignesh-nagarajan-vn/vignesh-nagarajan-vn/output/phoenix-dark.gif#gh-dark-mode-only" alt="Git Phoenix, a pixel-art phoenix flying over the Arizona desert, burning hotter with recent GitHub activity" />
-  <br/>
-  <sub>The phoenix burns hotter with my recent GitHub activity and cools to ash when I go quiet. <a href="phoenix/">How it works</a></sub>
-</p>
-
 **Experience** · Currently at American Airlines (MLE). Previously at Deloitte (Tech Consulting), Jetson (SWE), Qurios Ventures (FTM)
 
 **Recognition** · 5× Hackathon Winner · [Congressional App Challenge](https://github.com/vignesh-nagarajan-vn/Chronos) Winner · Mu Alpha Theta National Scholar · SANS-GIAC National Cyber Scholar · 2× AMC/AreteLabs Math National Champion
