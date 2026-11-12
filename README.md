@@ -18,11 +18,11 @@
 
 **Experience** · Currently at American Airlines (MLE). Previously at Deloitte (Tech Consulting), Jetson (SWE), Qurios Ventures (FTM)
 
-**Recognition** · 5× Hackathon Winner · [Congressional App Challenge](https://github.com/vignesh-nagarajan-vn/Chronos) Winner · Mu Alpha Theta National Scholar · SANS-GIAC National Cyber Scholar · 2× AMC/AreteLabs Math National Champion
+**Recognition** · 5× Hackathon Winner · [Congressional App Challenge](https://github.com/vignesh-nagarajan-vn/Chronos) Winner · Mu Alpha Theta National Scholar · SANS-GIAC National Cyber Scholar · 2× AMC/AreteLabs Math National Champion · 2× AzSEF Grand Award Winner & ISEF Alternate
 
-**Open source**
+**Open Source**
 
-- **Yahoo [yfinance](https://github.com/ranaroussi/yfinance)**: three fixes shipped in [v1.6.0](https://github.com/ranaroussi/yfinance/releases/tag/1.6.0) ([#2900](https://github.com/ranaroussi/yfinance/pull/2900), [#2901](https://github.com/ranaroussi/yfinance/pull/2901), [#2903](https://github.com/ranaroussi/yfinance/pull/2903))
+- **Yahoo [yfinance](https://github.com/ranaroussi/yfinance)**: three fixes covering half of new features shipped in [v1.6.0](https://github.com/ranaroussi/yfinance/releases/tag/1.6.0) ([#2900](https://github.com/ranaroussi/yfinance/pull/2900), [#2901](https://github.com/ranaroussi/yfinance/pull/2901), [#2903](https://github.com/ranaroussi/yfinance/pull/2903))
 - **Microsoft [qlib](https://github.com/microsoft/qlib)**: fixed instrument-file corruption ([#2302](https://github.com/microsoft/qlib/pull/2302)) and aligned the black pre-commit hook with CI ([#2303](https://github.com/microsoft/qlib/pull/2303))
 
 **Papers**
