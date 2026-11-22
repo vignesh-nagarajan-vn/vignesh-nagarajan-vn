@@ -32,3 +32,7 @@
 - [*CANVAS: Captioning Art with Narrative Visual-Audio AI Systems*](https://doi.org/10.48550/arxiv.2606.09846), Springer Nature UAIS 2026
 - [*MIRROR: Multimodal Intelligent Radiology Reasoning and Observation Reporter*](https://doi.org/10.48550/arXiv.2608.16709), arXiv 2026
 - [*PEBSA: Public Economic Behavior Sentiment Analysis*](https://doi.org/10.18535/ijecs/v13i12.4950), IJECS 2024
+
+
+
+_I build with [Claude Code](https://github.com/vignesh-nagarajan-vn/claude-workflow-skills) and [Lyra](https://github.com/vignesh-nagarajan-vn/Lyra-Server), my <$300 AI workstation._
