@@ -16,7 +16,7 @@
   </a>
 </p>
 
-**Experience** · Currently at American Airlines (MLE). Previously at Deloitte (Tech Consulting), Jetson (SWE), Qurios Ventures (FTM)
+**Experience** · Currently at [American Airlines](https://github.com/vignesh-nagarajan-vn/American-Airlines-F26) (MLE). Previously at Deloitte (Tech Consulting), Jetson (SWE), Qurios Ventures (FTM)
 
 **Recognition** · 6× Hackathon Winner · [Congressional App Challenge Winner](https://github.com/vignesh-nagarajan-vn/Chronos) · Mu Alpha Theta National Scholar · SANS-GIAC National Cyber Scholar · 2× AMC/AreteLabs Math National Champion · 2× AzSEF Grand Award Winner & ISEF Alternate
 
