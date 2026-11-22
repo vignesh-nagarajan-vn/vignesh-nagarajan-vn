@@ -18,7 +18,7 @@
 
 **Experience** · Currently at American Airlines (MLE). Previously at Deloitte (Tech Consulting), Jetson (SWE), Qurios Ventures (FTM)
 
-**Recognition** · 5× Hackathon Winner · [Congressional App Challenge](https://github.com/vignesh-nagarajan-vn/Chronos) Winner · Mu Alpha Theta National Scholar · SANS-GIAC National Cyber Scholar · 2× AMC/AreteLabs Math National Champion · 2× AzSEF Grand Award Winner & ISEF Alternate
+**Recognition** · 6× Hackathon Winner · [Congressional App Challenge Winner](https://github.com/vignesh-nagarajan-vn/Chronos) · Mu Alpha Theta National Scholar · SANS-GIAC National Cyber Scholar · 2× AMC/AreteLabs Math National Champion · 2× AzSEF Grand Award Winner & ISEF Alternate
 
 **Open Source**
 
@@ -27,7 +27,7 @@
 
 **Papers**
 
-- [*REFLEX: Reflexive Equilibrium Fixed-point Learning for Endogenous eXchanges*](https://doi.org/10.48550/arXiv.2608.16155), ACM ICAIF 2026
+- [*REFLEX: Reflexive Equilibrium Fixed-point Learning for Endogenous eXchanges*](https://doi.org/10.1145/3858063.3858863), ACM ICAIF 2026
 - *Herd Immunity and Learning Externalities in Markets of Shared Foundation Models*, IEEE BigData 2026 ABCSS
 - [*CANVAS: Captioning Art with Narrative Visual-Audio AI Systems*](https://doi.org/10.48550/arxiv.2606.09846), Springer Nature UAIS 2026
 - [*MIRROR: Multimodal Intelligent Radiology Reasoning and Observation Reporter*](https://doi.org/10.48550/arXiv.2608.16709), arXiv 2026
